@@ -1,64 +1,41 @@
 # KnowYi Technologies
 
-**KnowYi is the execution layer helping hardware teams turn engineering intent into delivered industrial products.**
+**KnowYi helps hardware teams get from design to real production units — faster.**
 
-KnowYi helps robotics, hardware, automotive electronics, university labs, and industrial automation teams move from incomplete specs, CAD files, drawings, BOMs, photos, inspection requirements, and environment constraints into real manufactured hardware.
+A hardware team can have the CAD, drawings, BOM and engineering talent and still lose weeks between “the design is ready” and “the product is actually buildable.” KnowYi is built around that gap.
 
-We are building the software and operational system for hardware execution: structured build records, manufacturable packages, supplier routing, production tracking, inspection evidence, revision history, and delivery updates.
+For customers, the result is simple: **send us what exists, get a production path quickly, and keep the build moving without turning engineering into a full-time manufacturing coordination job.**
 
-## What KnowYi does
+## What customers get
 
-Hardware execution usually does not break because a team cannot “find a supplier.” It breaks because production intent is scattered across drawings, emails, BOMs, CAD files, supplier questions, revision history, quality requirements, and delivery constraints.
+- **A clear path from incomplete engineering inputs to a buildable package.** Customers do not need to arrive with every manufacturing detail already resolved.
+- **Faster movement from prototype to production.** The goal is to collapse the back-and-forth that normally sits between design decisions and physical parts.
+- **One place to keep the build coherent as it changes.** Files, decisions and revisions stay attached to the same build instead of being scattered across inboxes and chat threads.
+- **Production decisions that become reusable knowledge.** What was learned on one build can inform the next instead of disappearing after delivery.
 
-KnowYi turns that messy engineering intent into a structured execution workflow.
+## The product thesis
 
-Core areas include:
+Manufacturing is full of software for individual steps. The harder problem is the space between them: understanding what the engineer intended, identifying what is still unresolved, turning that into an executable build, and carrying the context forward when the next revision arrives.
 
-* Robotics manufacturing execution
-* PCBA and box-build execution
-* CNC machining for robotics and hardware teams
-* Cable harness and electromechanical assembly
-* Outdoor robot hardware and ruggedized enclosures
-* Hardware build records, revision control, and inspection evidence
-* Supplier-ready build packages and production tracking
-* AI-assisted intake, missing-input detection, and project memory
+KnowYi is building the intelligence layer for that transition.
 
-## Who KnowYi serves
+The long-term value is not another supplier directory or quoting interface. It is a growing system of **engineering intent, manufacturing decisions and real production outcomes** that makes future hardware builds easier to execute.
 
-KnowYi works with teams building physical products where engineering intent has to become delivered hardware:
+## Where KnowYi is used
 
-* Robotics companies
-* Industrial automation teams
-* AI hardware teams
-* Automotive electronics teams
-* University labs and research groups
-* Hardware startups moving from prototype to pilot production
-* Engineering teams managing recurring low-volume builds
+KnowYi works with teams building robotics, industrial systems, automotive electronics and other physical products where getting to production matters as much as getting the design right.
 
-## Why this matters
+Typical work starts with a real build: a PCB assembly, machined enclosure, cable harness, electromechanical assembly or a mixed hardware program — then extends into the information and decisions required to make the next build faster.
 
-Modern hardware teams need more than quoting and procurement. They need a reliable execution layer between engineering decisions and delivered industrial products.
+## Explore
 
-KnowYi structures the missing layer: requirements, files, revisions, supplier questions, production status, inspection evidence, and delivery context.
+- [KnowYi](https://www.knowyi.tech/)
+- [Selected work](https://www.knowyi.tech/work)
+- [KnowYi Answers](https://www.knowyi.tech/answers)
+- [Robotics manufacturing](https://www.knowyi.tech/robotics-manufacturing)
+- [PCBA and box-build](https://www.knowyi.tech/pcba-box-build)
+- [Why hardware builds stall](../blob/main/WHY-HARDWARE-BUILDS-STALL.md)
+- [The manufacturing intelligence thesis](../blob/main/MANUFACTURING-INTELLIGENCE.md)
+- [What a customer should feel](../blob/main/CUSTOMER-OUTCOMES.md)
 
-That execution memory becomes the foundation for faster builds, better quality control, and more reliable hardware programs.
-
-## Learn more
-
-KnowYi Answers:
-https://www.knowyi.tech/answers
-
-Selected work:
-https://www.knowyi.tech/work
-
-Robotics manufacturing execution:
-https://www.knowyi.tech/robotics-manufacturing
-
-PCBA and box-build:
-https://www.knowyi.tech/pcba-box-build
-
-Hardware build records:
-https://www.knowyi.tech/hardware-build-records
-
-Company LinkedIn:
-https://www.linkedin.com/company/knowyi-tech
+**KnowYi Technologies Inc. — Waterloo, Ontario, Canada**
