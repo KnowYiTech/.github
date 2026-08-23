@@ -1,10 +1,10 @@
 # KnowYi Industry Network
 
-KnowYi is not built as a standalone manufacturing service. It sits inside a working network of robotics companies, industrial hardware teams, universities, startup infrastructure, manufacturing partners and technical communities.
+KnowYi sits inside a working network of robotics companies, industrial hardware teams, universities, startup infrastructure, cloud infrastructure, manufacturing partners and technical communities.
 
 ## Customer-side anchors
 
-KnowYi's public customer network includes:
+KnowYi's customer network includes:
 
 - **Raise Robotics** — robotics
 - **FORT Robotics** — industrial robotics and safety systems
@@ -14,24 +14,17 @@ KnowYi's public customer network includes:
 
 ## University and research anchors
 
-KnowYi's public site features relationships with:
-
 - **University of Waterloo**
 - **Western University**
 - **Toronto Metropolitan University**
 - **Université du Québec à Montréal**
 
-These relationships place KnowYi close to engineering talent, robotics research, technical programs and hardware teams moving research toward deployed systems.
-
-## Startup and robotics ecosystem
-
-KnowYi is publicly connected with:
+## Startup, robotics and technology ecosystem
 
 - **Velocity**
 - **MaRS Discovery District**
 - **Waterloo RoboHub**
-
-Together these place KnowYi inside the Waterloo / Ontario deep-tech and robotics network rather than outside it as a transactional vendor.
+- **AWS Activate**
 
 ## Manufacturing reach
 
@@ -41,27 +34,23 @@ KnowYi's public site highlights:
 - activity across **7 markets on three continents**
 - a completed build delivered in **10 days from drawings to finished product**
 
-## Talent and founder network
+## Publishing and technical network
 
-KnowYi maintains an active company presence on LinkedIn with employees, hiring, technical posts and company updates. The company has recruited across Waterloo, Toronto, San Francisco and remote roles, including a Founding AI/ML Engineer position.
+KnowYi maintains active public channels across:
 
-## Publishing network
-
-KnowYi publishes company updates, manufacturing analysis and build-focused content across:
-
-- LinkedIn
-- Instagram
-- Facebook
-- X
-
-The publishing cadence keeps the company visible across customer, founder, engineering and industry audiences instead of relying on a single corporate channel.
+- LinkedIn: https://www.linkedin.com/company/knowyi-tech
+- Instagram: https://www.instagram.com/knowyi.tech/
+- Facebook: https://www.facebook.com/profile.php?id=61588780791714
+- X: https://x.com/KnowYiTech
+- Quora: https://knowyitechnology.quora.com/
+- GitHub: https://github.com/KnowYiTech
 
 ## The position
 
 KnowYi connects groups that are often separated:
 
-**hardware companies that need production** ↔ **engineering and robotics ecosystems** ↔ **manufacturing capacity** ↔ **production knowledge**
+**hardware companies** ↔ **engineering and robotics ecosystems** ↔ **technology infrastructure** ↔ **manufacturing capacity** ↔ **production knowledge**
 
-The more real builds, institutions, teams and manufacturing outcomes connect through the same system, the more useful KnowYi becomes as a node between design and production.
+That is the position KnowYi is building from: not one isolated step in hardware production, but a recurring connection point between the people designing physical systems and the infrastructure required to make them real.
 
 Company: https://www.knowyi.tech/
