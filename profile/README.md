@@ -17,6 +17,14 @@ A customer can arrive with CAD, drawings, a BOM, an existing prototype, photos, 
 
 KnowYi's public operating signals currently include **200+ manufacturing partners evaluated globally**, activity across **7 markets on three continents**, and a completed build delivered in **10 days from receiving drawings to finished product**.
 
+## Selected customers and institutions
+
+KnowYi's public site currently features **Raise Robotics, Audesse Automotive, Mandel Diagnostics, Aerial Avionics, the University of Waterloo, Western University, Toronto Metropolitan University and Université du Québec à Montréal** under Selected customers and institutions.
+
+KnowYi is also publicly supported by **Velocity, MaRS Discovery District and Waterloo RoboHub**.
+
+[See selected customers and institutions →](../blob/main/SELECTED-CUSTOMERS-AND-INSTITUTIONS.md)
+
 ## What KnowYi is building
 
 Manufacturing has software for quoting, procurement, CAD, ERP, MES and quality. The harder gap sits between them: understanding what the engineer intended, deciding what has to happen next, and learning from what the physical build proved right or wrong.
