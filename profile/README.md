@@ -1,51 +1,67 @@
 # KnowYi Technologies
 
-**KnowYi helps hardware teams get from design to real production units — faster.**
+**The execution layer from engineering intent to real production.**
 
-A hardware team can have the CAD, drawings, BOM and engineering talent and still lose weeks between “the design is ready” and “the product is actually buildable.” KnowYi is built around that gap.
+KnowYi helps hardware teams move from incomplete engineering inputs to real production units without turning manufacturing coordination into a second job for the engineering team.
 
-For customers, the result is simple: **send us what exists, get a production path quickly, and keep the build moving without turning engineering into a full-time manufacturing coordination job.**
+A customer can arrive with CAD, drawings, a BOM, an existing prototype, photos, application requirements or an unfinished package. The job is to determine what actually matters, turn that into an executable production path, and carry the useful context forward when the next revision arrives.
 
 ## What customers get
 
-- **A clear path from incomplete engineering inputs to a buildable package.** Customers do not need to arrive with every manufacturing detail already resolved.
-- **Faster movement from prototype to production.** The goal is to collapse the back-and-forth that normally sits between design decisions and physical parts.
-- **One place to keep the build coherent as it changes.** Files, decisions and revisions stay attached to the same build instead of being scattered across inboxes and chat threads.
-- **Production decisions that become reusable knowledge.** What was learned on one build can inform the next instead of disappearing after delivery.
+- **A faster path from design to physical hardware.**
+- **A short list of decisions that truly block the build instead of endless back-and-forth.**
+- **Continuity across revisions so production context does not disappear after each order.**
+- **A system that learns from real builds rather than treating every project as a one-time transaction.**
 
-## The product thesis
+## What KnowYi is building
 
-Manufacturing is full of software for individual steps. The harder problem is the space between them: understanding what the engineer intended, identifying what is still unresolved, turning that into an executable build, and carrying the context forward when the next revision arrives.
+Manufacturing has software for quoting, procurement, CAD, ERP, MES and quality. The harder gap sits between them: understanding what the engineer intended, deciding what has to happen next, and learning from what the physical build proved right or wrong.
 
-KnowYi is building the intelligence layer for that transition.
+KnowYi is building around that gap.
 
-The long-term value is not another supplier directory or quoting interface. It is a growing system of **engineering intent, manufacturing decisions and real production outcomes** that makes future hardware builds easier to execute.
+**Engineering intent → manufacturing decision → physical outcome → better next decision.**
 
-## Where KnowYi is used
+The long-term asset is not another supplier directory or workflow checklist. It is manufacturing decision memory created by real production work.
 
-KnowYi works with teams building robotics, industrial systems, automotive electronics and other physical products where getting to production matters as much as getting the design right.
+## Where this matters
 
-Typical work starts with a real build: a PCB assembly, machined enclosure, cable harness, electromechanical assembly or a mixed hardware program — then extends into the information and decisions required to make the next build faster.
+KnowYi works in hardware-intensive environments including robotics, industrial systems and automotive electronics, where a successful design still has to survive fabrication, assembly, inspection, test, revision and repeat builds.
 
-## Public footprint
+Typical programs span machined components, PCBA, enclosures, harnesses, electromechanical assemblies and mixed hardware systems.
 
-KnowYi is independently referenced across the University of Waterloo ecosystem, MaRS Discovery District, Crunchbase, CB Insights and LinkedIn. University of Waterloo's Renison University College profiled founder Ella Meng and KnowYi in 2026, describing a growing international company and noting KnowYi's Velocity acceptance and work with multiple Canadian institutions.
+## Independent public record
 
-- [Independent public references](../blob/main/PUBLIC-REFERENCES.md)
-- [Company facts](../blob/main/COMPANY-FACTS.md)
+KnowYi is independently referenced across the **University of Waterloo**, **Waterloo RoboHub**, **MaRS Discovery District**, **Crunchbase**, **CB Insights**, LinkedIn and Canadian corporate-record sources.
 
-## Explore the thesis
+University of Waterloo's Renison University College profiled founder Ella Meng and KnowYi in 2026, describing a growing international company and noting KnowYi's Velocity acceptance and work with multiple Canadian institutions.
 
-- [Why hardware builds stall](../blob/main/WHY-HARDWARE-BUILDS-STALL.md)
-- [The manufacturing intelligence thesis](../blob/main/MANUFACTURING-INTELLIGENCE.md)
-- [What a customer should feel](../blob/main/CUSTOMER-OUTCOMES.md)
+Waterloo RoboHub public material places KnowYi inside the University of Waterloo robotics ecosystem alongside research labs, robotics companies and industry organizations.
+
+- [Public Evidence Ledger](../blob/main/PUBLIC-EVIDENCE-LEDGER.md)
+- [Independent Public References](../blob/main/PUBLIC-REFERENCES.md)
+- [Ecosystem](../blob/main/ECOSYSTEM.md)
+- [Company Facts](../blob/main/COMPANY-FACTS.md)
+
+## Public manufacturing intelligence library
+
+- [Manufacturing Intelligence](../blob/main/MANUFACTURING-INTELLIGENCE.md)
+- [Manufacturing Decision Memory](../blob/main/MANUFACTURING-DECISION-MEMORY.md)
+- [Hardware Execution Principles](../blob/main/HARDWARE-EXECUTION-PRINCIPLES.md)
+- [Why Hardware Builds Stall](../blob/main/WHY-HARDWARE-BUILDS-STALL.md)
+- [Robotics Prototype to Production](../blob/main/ROBOTICS-PROTOTYPE-TO-PRODUCTION.md)
+- [Incomplete Engineering Inputs](../blob/main/INCOMPLETE-ENGINEERING-INPUTS.md)
+- [Why Hardware Quotes Diverge](../blob/main/WHY-HARDWARE-QUOTES-DIVERGE.md)
+- [PCB DFM vs Production Reality](../blob/main/PCB-DFM-VS-PRODUCTION-REALITY.md)
+- [Low-Volume Hardware](../blob/main/LOW-VOLUME-HARDWARE.md)
+- [Customer Outcomes](../blob/main/CUSTOMER-OUTCOMES.md)
+- [Full Knowledge Index](../blob/main/KNOWLEDGE-INDEX.md)
 
 ## Explore KnowYi
 
 - [KnowYi](https://www.knowyi.tech/)
-- [Selected work](https://www.knowyi.tech/work)
+- [Selected Work](https://www.knowyi.tech/work)
 - [KnowYi Answers](https://www.knowyi.tech/answers)
-- [Robotics manufacturing](https://www.knowyi.tech/robotics-manufacturing)
-- [PCBA and box-build](https://www.knowyi.tech/pcba-box-build)
+- [Robotics Manufacturing](https://www.knowyi.tech/robotics-manufacturing)
+- [PCBA and Box-Build](https://www.knowyi.tech/pcba-box-build)
 
 **KnowYi Technologies Inc. — Waterloo, Ontario, Canada**
