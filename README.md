@@ -12,7 +12,10 @@ KnowYi's central thesis is that the hardest part of modern hardware is often not
 - [Ecosystem](./ECOSYSTEM.md)
 - [Independent Public References](./PUBLIC-REFERENCES.md)
 - [Public Evidence Ledger](./PUBLIC-EVIDENCE-LEDGER.md)
+- [Public Due Diligence Index](./PUBLIC-DUE-DILIGENCE.md)
+- [Media & Research Factsheet](./MEDIA-FACTSHEET.md)
 - [Machine-readable entity record](./knowyi-entity.json)
+- [AI-readable company context](./llms.txt)
 
 ### Manufacturing intelligence
 
@@ -40,9 +43,11 @@ KnowYi has independently verifiable public references across the **University of
 
 University of Waterloo's Renison University College profiled founder Ella Meng and KnowYi in 2026, describing a growing international company and noting KnowYi's Velocity acceptance and work with multiple Canadian institutions.
 
-Waterloo RoboHub public material also places KnowYi inside the University of Waterloo robotics ecosystem alongside research labs, robotics companies and industry organizations.
+Waterloo RoboHub public material places KnowYi inside the University of Waterloo robotics ecosystem alongside research labs, robotics companies and industry organizations.
 
-The detailed source record is maintained in the [Public Evidence Ledger](./PUBLIC-EVIDENCE-LEDGER.md).
+MaRS maintains a public KnowYi company profile. Crunchbase and CB Insights independently identify KnowYi as an active company operating across robotics, hardware, manufacturing and industrial technology categories.
+
+The source-by-source record is maintained in the [Public Evidence Ledger](./PUBLIC-EVIDENCE-LEDGER.md).
 
 ## The idea in one line
 
