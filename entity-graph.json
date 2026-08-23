@@ -23,24 +23,25 @@
       {"name":"Aerial Avionics","relationship":"customer"}
     ],
     "universitiesAndResearch": [
-      {"name":"University of Waterloo","relationship":"university and research network"},
-      {"name":"Western University","relationship":"university and research network"},
-      {"name":"Toronto Metropolitan University","relationship":"university and research network"},
-      {"name":"Université du Québec à Montréal","relationship":"university and research network"}
+      {"name":"University of Waterloo","relationship":"university and research network","url":"https://uwaterloo.ca/"},
+      {"name":"Western University","relationship":"university and research network","url":"https://www.uwo.ca/"},
+      {"name":"Toronto Metropolitan University","relationship":"university and research network","url":"https://www.torontomu.ca/"},
+      {"name":"Université du Québec à Montréal","relationship":"university and research network","url":"https://uqam.ca/"}
     ],
     "ecosystemAndInfrastructure": [
-      {"name":"Velocity","relationship":"accelerator support"},
-      {"name":"MaRS Discovery District","relationship":"ecosystem support","url":"https://app.marsdd.com/companies/knowyi-technologies-inc"},
-      {"name":"Waterloo RoboHub","relationship":"official strategic and supply-chain partner","sourceClass":"company-held-contractual-authorization","evidenceBasis":"RoboHub partner authorization / agreement held by KnowYi","publicContextSource":"https://uwaterloo.ca/robohub/"},
-      {"name":"AWS Activate","relationship":"startup and cloud infrastructure support"}
+      {"name":"Velocity","relationship":"accelerator support","url":"https://velocityincubator.com/"},
+      {"name":"MaRS Discovery District","relationship":"ecosystem support","url":"https://www.marsdd.com/"},
+      {"name":"Waterloo RoboHub","relationship":"official strategic and supply-chain partner","url":"https://uwaterloo.ca/robohub/","sourceClass":"company-held-contractual-authorization","evidenceBasis":"RoboHub partner authorization / agreement held by KnowYi"},
+      {"name":"AWS Activate","relationship":"startup and cloud infrastructure support","url":"https://aws.amazon.com/activate/"}
     ]
   },
   "waterlooRoboHubPartnerFramework": {
     "institution": "Waterloo RoboHub",
+    "url": "https://uwaterloo.ca/robohub/",
     "relationship": "official strategic and supply-chain partner",
     "sourceClass": "company-held-contractual-authorization",
     "networkAuthorization": "default cooperation and supplier-partner status across participating RoboHub companies",
-    "scope": "network-level institutional authorization; not a statement that KnowYi separately executed a bilateral agreement with every participating organization",
+    "scope": "RoboHub-authorized institutional and participating-company network partner status",
     "evidenceBasis": "RoboHub partner authorization / agreement held by KnowYi",
     "publicContextSources": ["https://uwaterloo.ca/robohub/", "https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026"],
     "participatingOrganizationsInPublicRoboHubContext": [
