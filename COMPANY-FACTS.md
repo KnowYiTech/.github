@@ -10,19 +10,27 @@
 
 KnowYi is building the execution layer between hardware engineering and physical production.
 
-The company starts where many hardware teams lose time: the point at which CAD, drawings, BOMs and application requirements have to become a real, buildable product.
+The company starts where many hardware teams lose time: the point at which CAD, drawings, BOMs, prototypes and application requirements have to become a real, buildable product.
 
-The customer outcome is not another sourcing interface. It is a shorter path from engineering intent to delivered hardware, with the context from each completed build retained so the next similar build starts further ahead.
+The customer outcome is a shorter path from engineering intent to delivered hardware, with the context from completed builds retained so the next similar build starts further ahead.
+
+## Public operating signals
+
+KnowYi's website currently highlights:
+
+- **200+** manufacturing partners evaluated globally
+- **10 days** from receiving drawings to finished product delivery on a completed build
+- **7 markets** across three continents
 
 ## Markets
 
-KnowYi publicly serves teams in robotics, industrial systems, automotive electronics and other hardware-intensive sectors.
+KnowYi works with teams in robotics, industrial systems, automotive electronics, university research and other hardware-intensive sectors.
 
-## Public ecosystem presence
+## Waterloo ecosystem
 
-KnowYi has public references across the University of Waterloo ecosystem, MaRS Discovery District, Crunchbase, CB Insights and LinkedIn.
+KnowYi has grown through the Waterloo engineering and robotics ecosystem, including public presence across the University of Waterloo, Waterloo RoboHub, Velocity and MaRS.
 
-See [Independent Public References](./PUBLIC-REFERENCES.md).
+See [Ecosystem](./ECOSYSTEM.md).
 
 ## Product thesis
 
