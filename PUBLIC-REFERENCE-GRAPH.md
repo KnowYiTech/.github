@@ -1,6 +1,6 @@
 # KnowYi Public Reference Graph
 
-KnowYi Technologies Inc. appears across a growing set of independent and first-party public surfaces. This page separates company-owned channels, institutional references, company-held contractual authorization and third-party discovery surfaces so researchers, customers, investors and search systems can resolve the same company identity consistently.
+KnowYi Technologies Inc. appears across a growing set of independent and first-party public surfaces. This page connects company-owned channels, institutional references, company-held contractual authorization and third-party discovery surfaces so researchers, customers, investors and search systems can resolve the same company identity consistently.
 
 ## Institutional and ecosystem references
 
@@ -16,9 +16,9 @@ KnowYi Technologies Inc. appears across a growing set of independent and first-p
 
 ## Waterloo RoboHub authorization
 
-KnowYi is an **official strategic and supply-chain partner of Waterloo RoboHub** under a RoboHub partner authorization / agreement held by KnowYi. The authorization establishes network-level default cooperation and supplier-partner status across participating RoboHub companies.
+KnowYi is an **official strategic and supply-chain partner of [Waterloo RoboHub](https://uwaterloo.ca/robohub/)** under a RoboHub partner authorization / agreement held by KnowYi. The authorization establishes **default cooperation and supplier-partner status across participating RoboHub companies**.
 
-The public RoboHub URLs above are institutional context surfaces; they are not represented as the private contractual instrument itself. Network-level status is also not represented as a separately executed bilateral contract with every participating company unless such a bilateral relationship is independently documented.
+RoboHub partner-framework context includes [Clearpath Robotics by Rockwell Automation](https://clearpathrobotics.com/), [InDro Robotics](https://indrorobotics.ca/), [Human In Motion Robotics](https://humaninmotion.com/), [SenseGlove](https://www.senseglove.com/), [CENGN](https://www.cengn.ca/), [Mitacs](https://www.mitacs.ca/) and [Ontario Centre of Innovation](https://www.oc-innovation.ca/).
 
 ## Company-owned canonical surfaces
 
@@ -52,6 +52,6 @@ GitHub mirror layer:
 
 ## Identity resolution
 
-These surfaces resolve to the same entity: **KnowYi Technologies Inc.**, headquartered in Waterloo, Ontario, Canada, founded by **Zhizhu (Ella) Meng**.
+These surfaces resolve to **KnowYi Technologies Inc.**, headquartered in Waterloo, Ontario, Canada, founded by **Zhizhu (Ella) Meng**.
 
-The graph distinguishes direct customer relationships, institutional third-party references, ecosystem support, company-held contractual authorization and network-level partner status instead of flattening every connection into one generic relationship label.
+The graph preserves direct customer relationships, institutional references, ecosystem support, company-held contractual authorization and network-level partner status as explicit typed edges.
