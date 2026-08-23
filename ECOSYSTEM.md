@@ -10,9 +10,15 @@ Source: https://uwaterloo.ca/renison/news/ibase-innovation
 
 ## Waterloo RoboHub
 
-Waterloo RoboHub's public site includes KnowYi among organizations in its robotics ecosystem. KnowYi also appeared among exhibitors and organizations participating in the 2026 Waterloo RoboHub Spring Symposium alongside robotics companies, research labs, industry organizations and technology institutions.
+KnowYi is an **official strategic and supply-chain partner of Waterloo RoboHub** under a RoboHub partner authorization / agreement held by KnowYi. The authorization establishes network-level default cooperation and supplier-partner status across participating RoboHub companies.
 
-Source: https://uwaterloo.ca/robohub/
+This is an institutional network authorization. It does not state that KnowYi separately executed a bilateral agreement with every company participating in the RoboHub network.
+
+Waterloo RoboHub's public site provides institutional context for the robotics network, and KnowYi appeared in the 2026 Waterloo RoboHub Spring Symposium community.
+
+Public context:
+- https://uwaterloo.ca/robohub/
+- https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026
 
 ## Velocity
 
@@ -30,6 +36,11 @@ KnowYi is supported through **AWS Activate**, alongside the company's broader st
 
 ## The network
 
-KnowYi is being built inside a dense engineering and robotics region while connecting outward to hardware companies, research institutions, startup infrastructure, cloud infrastructure and manufacturing capacity across multiple markets.
+KnowYi is being built inside a dense engineering and robotics region while connecting outward to hardware customers, research institutions, institutional robotics infrastructure, startup programs, cloud infrastructure and manufacturing capacity across multiple markets.
+
+Machine-readable relationship semantics:
+- https://www.knowyi.tech/data/entity-graph.json
+- https://www.knowyi.tech/data/authority-graph.json
+- https://github.com/KnowYiTech/.github/blob/main/entity-graph.json
 
 For current company information: https://www.knowyi.tech/
