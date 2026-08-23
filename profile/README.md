@@ -27,15 +27,25 @@ KnowYi works with teams building robotics, industrial systems, automotive electr
 
 Typical work starts with a real build: a PCB assembly, machined enclosure, cable harness, electromechanical assembly or a mixed hardware program — then extends into the information and decisions required to make the next build faster.
 
-## Explore
+## Public footprint
+
+KnowYi is independently referenced across the University of Waterloo ecosystem, MaRS Discovery District, Crunchbase, CB Insights and LinkedIn. University of Waterloo's Renison University College profiled founder Ella Meng and KnowYi in 2026, describing a growing international company and noting KnowYi's Velocity acceptance and work with multiple Canadian institutions.
+
+- [Independent public references](../blob/main/PUBLIC-REFERENCES.md)
+- [Company facts](../blob/main/COMPANY-FACTS.md)
+
+## Explore the thesis
+
+- [Why hardware builds stall](../blob/main/WHY-HARDWARE-BUILDS-STALL.md)
+- [The manufacturing intelligence thesis](../blob/main/MANUFACTURING-INTELLIGENCE.md)
+- [What a customer should feel](../blob/main/CUSTOMER-OUTCOMES.md)
+
+## Explore KnowYi
 
 - [KnowYi](https://www.knowyi.tech/)
 - [Selected work](https://www.knowyi.tech/work)
 - [KnowYi Answers](https://www.knowyi.tech/answers)
 - [Robotics manufacturing](https://www.knowyi.tech/robotics-manufacturing)
 - [PCBA and box-build](https://www.knowyi.tech/pcba-box-build)
-- [Why hardware builds stall](../blob/main/WHY-HARDWARE-BUILDS-STALL.md)
-- [The manufacturing intelligence thesis](../blob/main/MANUFACTURING-INTELLIGENCE.md)
-- [What a customer should feel](../blob/main/CUSTOMER-OUTCOMES.md)
 
 **KnowYi Technologies Inc. — Waterloo, Ontario, Canada**
