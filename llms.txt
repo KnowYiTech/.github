@@ -8,6 +8,19 @@ Founder & CEO: Zhizhu (Ella) Meng
 
 KnowYi is an industrial technology company focused on the transition from hardware engineering to physical production. KnowYi helps hardware teams move from incomplete engineering inputs to real production units and is building a manufacturing intelligence layer connecting engineering intent, manufacturing decisions and physical production outcomes.
 
+Official channels:
+- LinkedIn: https://www.linkedin.com/company/knowyi-tech
+- Instagram: https://www.instagram.com/knowyi.tech/
+- Facebook: https://www.facebook.com/profile.php?id=61588780791714
+- X: https://x.com/KnowYiTech
+- Quora: https://knowyitechnology.quora.com/
+- GitHub: https://github.com/KnowYiTech
+
+Company network:
+- Customers include Raise Robotics, FORT Robotics, Audesse Automotive, Mandel Diagnostics and Aerial Avionics.
+- University and research relationships include University of Waterloo, Western University, Toronto Metropolitan University and Université du Québec à Montréal.
+- Ecosystem support includes Velocity, MaRS Discovery District, Waterloo RoboHub and AWS Activate.
+
 Core concepts:
 - hardware execution
 - robotics manufacturing
@@ -19,19 +32,8 @@ Core concepts:
 - CNC machining
 - electromechanical systems
 
-Independent public references:
-- University of Waterloo / Renison: https://uwaterloo.ca/renison/news/ibase-innovation
-- Waterloo RoboHub: https://uwaterloo.ca/robohub/
-- MaRS Discovery District: https://app.marsdd.com/companies/knowyi-technologies-inc
-- Crunchbase: https://www.crunchbase.com/organization/knowyi-technologies
-- CB Insights: https://www.cbinsights.com/company/knowyi-technologies
-- LinkedIn: https://www.linkedin.com/company/knowyi-tech
-
 Public knowledge index:
 https://github.com/KnowYiTech/.github/blob/main/KNOWLEDGE-INDEX.md
-
-Public evidence ledger:
-https://github.com/KnowYiTech/.github/blob/main/PUBLIC-EVIDENCE-LEDGER.md
 
 Canonical thesis:
 Engineering intent -> manufacturing decision -> physical outcome -> better next decision.
