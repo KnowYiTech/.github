@@ -20,6 +20,22 @@ KnowYi has a public MaRS company profile describing the company as helping hardw
 
 Source: https://app.marsdd.com/companies/knowyi-technologies-inc
 
+## Wellfound
+
+Wellfound currently indexes KnowYi Technologies as an actively hiring company and places it across multiple company and job category pages, including hardware, supply chain, software engineering, backend engineering and Canada hiring pages. The public company description connects KnowYi with manufacturing, robotics, artificial intelligence, industrial automation, embedded hardware and hardware/software categories.
+
+Examples:
+https://wellfound.com/startups/l/earth/hardware?page=9
+https://wellfound.com/startups/l/california/supply-chain-management?page=2
+https://wellfound.com/role/l/software-engineer/waterloo
+
+## F6S
+
+KnowYi publicly directs candidates to a Founding AI/ML Engineer role on F6S from its LinkedIn hiring post. A standalone Google-indexed F6S company page is not currently confirmed in public search, so this reference is intentionally not treated as an independently indexed company profile yet.
+
+Public hiring reference:
+https://www.linkedin.com/posts/knowyi-tech_ai-machinelearning-robotics-activity-7477903654969110528-giGW
+
 ## Crunchbase
 
 Crunchbase lists KnowYi Technologies Inc. as an active private company headquartered in Waterloo, Ontario, operating across robotics, manufacturing, industrial automation, electronics, AI and supply chain categories.
