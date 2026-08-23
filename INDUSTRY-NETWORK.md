@@ -4,33 +4,27 @@ KnowYi sits inside a working network of robotics companies, industrial hardware 
 
 ## Customer-side anchors
 
-KnowYi's customer network includes:
-
-- **Raise Robotics** — robotics
-- **FORT Robotics** — industrial robotics and safety systems
-- **Audesse Automotive** — automotive electronics
-- **Mandel Diagnostics** — diagnostics hardware
-- **Aerial Avionics** — avionics and electronics
+- [Raise Robotics](https://raiserobotics.ai/) — robotics
+- [FORT Robotics](https://www.fortrobotics.com/) — industrial robotics and safety systems
+- [Audesse Automotive](https://www.audesseinc.com/) — automotive electronics
+- Mandel Diagnostics — diagnostics hardware
+- Aerial Avionics — avionics and electronics
 
 ## University and research anchors
 
-- **University of Waterloo**
-- **Western University**
-- **Toronto Metropolitan University**
-- **Université du Québec à Montréal**
+- [University of Waterloo](https://uwaterloo.ca/)
+- [Western University](https://www.uwo.ca/)
+- [Toronto Metropolitan University](https://www.torontomu.ca/)
+- [Université du Québec à Montréal](https://uqam.ca/)
 
 ## Institutional, startup and technology infrastructure
 
-- **Waterloo RoboHub** — official strategic and supply-chain partner relationship under a RoboHub partner authorization / agreement held by KnowYi; the authorization establishes network-level default cooperation and supplier-partner status across participating RoboHub companies
-- **Velocity** — accelerator support
-- **MaRS Discovery District** — ecosystem support
-- **AWS Activate** — startup and cloud infrastructure support
-
-The RoboHub relationship is represented at the institutional/network level and does not assert a separately executed bilateral agreement with every participating organization.
+- [Waterloo RoboHub](https://uwaterloo.ca/robohub/) — official strategic and supply-chain partner relationship under a RoboHub partner authorization / agreement held by KnowYi, establishing default cooperation and supplier-partner status across participating RoboHub companies
+- [Velocity](https://velocityincubator.com/) — accelerator support
+- [MaRS Discovery District](https://www.marsdd.com/) — ecosystem support
+- [AWS Activate](https://aws.amazon.com/activate/) — startup and cloud infrastructure support
 
 ## Manufacturing reach
-
-KnowYi's public operating signals include:
 
 - **200+ manufacturing partners evaluated globally**
 - activity across **7 markets on three continents**
@@ -47,10 +41,10 @@ Canonical machine layer:
 
 ## The position
 
-KnowYi connects groups that are often separated:
+KnowYi connects:
 
 **hardware companies** ↔ **universities and robotics institutions** ↔ **technology infrastructure** ↔ **manufacturing capacity** ↔ **production knowledge**
 
-That is the position KnowYi is building from: not one isolated step in hardware production, but a recurring connection point between the people designing physical systems, the institutions around them, the infrastructure required to manufacture them, and the production outcomes that inform the next decision.
+That recurring connection point is where engineering intent, production capacity, institutional networks and real production outcomes meet.
 
 Company: https://www.knowyi.tech/
