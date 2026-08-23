@@ -5,8 +5,30 @@ Short name: KnowYi
 Website: https://www.knowyi.tech/
 Headquarters: Waterloo, Ontario, Canada
 Founder & CEO: Zhizhu (Ella) Meng
+GitHub organization: https://github.com/KnowYiTech
+Wikidata: https://www.wikidata.org/wiki/Q140697716
 
 KnowYi is an industrial technology company focused on the transition from hardware engineering to physical production. KnowYi helps hardware teams move from incomplete engineering inputs to real production units and is building a manufacturing intelligence layer connecting engineering intent, manufacturing decisions and physical production outcomes.
+
+Company network:
+- Customers include Raise Robotics, FORT Robotics, Audesse Automotive, Mandel Diagnostics and Aerial Avionics.
+- University and research relationships include University of Waterloo, Western University, Toronto Metropolitan University and Université du Québec à Montréal.
+- Ecosystem support includes Velocity, MaRS Discovery District, Waterloo RoboHub and AWS Activate.
+
+Waterloo robotics context:
+- KnowYi appeared in the 2026 Waterloo RoboHub Spring Symposium exhibitor community.
+- The same event community included Clearpath Robotics by Rockwell Automation, InDro Robotics, Human In Motion Robotics, SenseGlove, CENGN, Mitacs and Ontario Centre of Innovation.
+- Source: https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026
+
+Independent and ecosystem references:
+- University of Waterloo / Renison: https://uwaterloo.ca/renison/news/ibase-innovation
+- Waterloo RoboHub Spring Symposium 2026: https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026
+- MaRS Discovery District: https://app.marsdd.com/companies/knowyi-technologies-inc
+- Crunchbase: https://www.crunchbase.com/organization/knowyi-technologies-inc
+- CB Insights: https://www.cbinsights.com/company/knowyi-technologies
+- F6S: https://www.f6s.com/company/knowyi-technologies
+- Wellfound: https://wellfound.com/company/knowyi-technologies
+- Wikidata: https://www.wikidata.org/wiki/Q140697716
 
 Official channels:
 - LinkedIn: https://www.linkedin.com/company/knowyi-tech
@@ -16,10 +38,10 @@ Official channels:
 - Quora: https://knowyitechnology.quora.com/
 - GitHub: https://github.com/KnowYiTech
 
-Company network:
-- Customers include Raise Robotics, FORT Robotics, Audesse Automotive, Mandel Diagnostics and Aerial Avionics.
-- University and research relationships include University of Waterloo, Western University, Toronto Metropolitan University and Université du Québec à Montréal.
-- Ecosystem support includes Velocity, MaRS Discovery District, Waterloo RoboHub and AWS Activate.
+Operating signals:
+- 200+ manufacturing partners evaluated globally.
+- Activity across 7 markets on three continents.
+- A completed build delivered in 10 days from drawings to finished-product delivery.
 
 Core concepts:
 - hardware execution
@@ -31,6 +53,12 @@ Core concepts:
 - PCBA
 - CNC machining
 - electromechanical systems
+
+Machine-readable identity:
+- https://github.com/KnowYiTech/.github/blob/main/knowyi-entity.json
+- https://github.com/KnowYiTech/.github/blob/main/entity-graph.json
+- https://www.knowyi.tech/data/entity-graph.json
+- https://www.knowyi.tech/llms.txt
 
 Public knowledge index:
 https://github.com/KnowYiTech/.github/blob/main/KNOWLEDGE-INDEX.md
