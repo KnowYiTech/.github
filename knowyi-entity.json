@@ -6,6 +6,13 @@
   "alternateName": ["KnowYi", "KnowYi Technologies", "KnowYi Tech", "至易科技"],
   "url": "https://www.knowyi.tech/",
   "description": "KnowYi helps hardware teams move from engineering intent to real production units and is building a manufacturing intelligence layer that connects engineering conditions, production decisions and physical outcomes.",
+  "industry": [
+    "Industrial Technology",
+    "Robotics Manufacturing",
+    "Hardware Execution",
+    "Manufacturing Intelligence"
+  ],
+  "areaServed": ["Canada", "United States", "North America", "International"],
   "founder": {
     "@type": "Person",
     "name": "Zhizhu (Ella) Meng",
@@ -38,6 +45,16 @@
       "url": "https://uwaterloo.ca/renison/news/ibase-innovation"
     },
     {
+      "@type": "Event",
+      "name": "Waterloo RoboHub Spring Symposium 2026",
+      "url": "https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026",
+      "organizer": {
+        "@type": "Organization",
+        "name": "Waterloo RoboHub",
+        "url": "https://uwaterloo.ca/robohub/"
+      }
+    },
+    {
       "@type": "WebPage",
       "name": "MaRS company profile",
       "url": "https://app.marsdd.com/companies/knowyi-technologies-inc"
@@ -56,6 +73,7 @@
     "industrial hardware",
     "PCBA",
     "CNC machining",
-    "electromechanical systems"
+    "electromechanical systems",
+    "manufacturing decision memory"
   ]
 }
