@@ -16,9 +16,9 @@
   },
   "relationships": {
     "customers": [
-      {"name":"Raise Robotics","relationship":"customer"},
-      {"name":"FORT Robotics","relationship":"customer"},
-      {"name":"Audesse Automotive","relationship":"customer"},
+      {"name":"Raise Robotics","relationship":"customer","url":"https://raiserobotics.ai/"},
+      {"name":"FORT Robotics","relationship":"customer","url":"https://www.fortrobotics.com/"},
+      {"name":"Audesse Automotive","relationship":"customer","url":"https://www.audesseinc.com/"},
       {"name":"Mandel Diagnostics","relationship":"customer"},
       {"name":"Aerial Avionics","relationship":"customer"}
     ],
@@ -42,10 +42,7 @@
     "networkAuthorization": "default cooperation and supplier-partner status across participating RoboHub companies",
     "scope": "network-level institutional authorization; not a statement that KnowYi separately executed a bilateral agreement with every participating organization",
     "evidenceBasis": "RoboHub partner authorization / agreement held by KnowYi",
-    "publicContextSources": [
-      "https://uwaterloo.ca/robohub/",
-      "https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026"
-    ],
+    "publicContextSources": ["https://uwaterloo.ca/robohub/", "https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026"],
     "participatingOrganizationsInPublicRoboHubContext": [
       {"name":"Clearpath Robotics by Rockwell Automation","relationship":"covered by RoboHub default partner framework","url":"https://clearpathrobotics.com/"},
       {"name":"InDro Robotics","relationship":"covered by RoboHub default partner framework","url":"https://indrorobotics.ca/"},
