@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "2026-08-23",
+  "id": "knowyi-public-knowledge-system",
+  "publisher": {"name":"KnowYi Technologies Inc.","url":"https://www.knowyi.tech/","organizationId":"https://www.knowyi.tech/#organization"},
+  "canonicalWebsiteManifest": "https://www.knowyi.tech/data/knowledge-manifest.json",
+  "purpose": "Public discovery map for KnowYi identity, governed claims, authority sources, relationship semantics, technical knowledge and distribution surfaces.",
+  "artifacts": [
+    {"role":"canonical-company-context","primary":"https://www.knowyi.tech/data/company-context.jsonld","githubMirror":"https://github.com/KnowYiTech/.github/blob/main/knowyi-entity.json"},
+    {"role":"typed-entity-relationship-graph","primary":"https://www.knowyi.tech/data/entity-graph.json","githubMirror":"https://github.com/KnowYiTech/.github/blob/main/entity-graph.json"},
+    {"role":"governed-public-claims","primary":"https://www.knowyi.tech/data/claims-registry.json","githubMirror":"https://github.com/KnowYiTech/.github/blob/main/claims-registry.json"},
+    {"role":"source-classified-authority-graph","primary":"https://www.knowyi.tech/data/authority-graph.json","githubMirror":"https://github.com/KnowYiTech/.github/blob/main/authority-graph.json"},
+    {"role":"short-llm-context","primary":"https://www.knowyi.tech/llms.txt","githubMirror":"https://github.com/KnowYiTech/.github/blob/main/llms.txt"},
+    {"role":"full-ai-discovery-reference","primary":"https://www.knowyi.tech/llms-full.txt"},
+    {"role":"public-rag-corpus","primary":"https://www.knowyi.tech/data/knowyi-public-corpus.jsonl"},
+    {"role":"public-rag-corpus-manifest","primary":"https://www.knowyi.tech/data/manifest.json"},
+    {"role":"canonical-sitemap","primary":"https://www.knowyi.tech/sitemap.xml"},
+    {"role":"machine-discovery-sitemap","primary":"https://www.knowyi.tech/ai-sitemap.xml"}
+  ],
+  "relationshipPolicy": {
+    "customer":"Publicly disclosed customer relationship.",
+    "officialRoboHubPartner":"Official strategic and supply-chain partnership under a RoboHub partner authorization / agreement held by KnowYi.",
+    "roboHubNetworkAuthorization":"Default cooperation and supplier-partner status across participating RoboHub companies at the network level.",
+    "bilateralBoundary":"Network-level authorization must not be rewritten as a separately executed bilateral contract with every participating organization unless independently documented.",
+    "ecosystem":"Accelerator, program, robotics or infrastructure context; not automatically investment or endorsement."
+  },
+  "sourceClasses": {
+    "company-held-contractual-authorization":"Relationship supported by an authorization or agreement held by KnowYi.",
+    "institutional-third-party":"Independent public reference hosted by an institution.",
+    "ecosystem-third-party":"Independent public reference hosted by an ecosystem/program organization.",
+    "first-party-approved":"KnowYi-approved public fact or relationship claim."
+  },
+  "rightsUrl":"https://www.knowyi.tech/legal"
+}
