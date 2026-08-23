@@ -15,21 +15,19 @@ The customer outcome is a shorter path from engineering intent to delivered hard
 
 ## Customer network
 
-**Raise Robotics · FORT Robotics · Audesse Automotive · Mandel Diagnostics · Aerial Avionics**
+[Raise Robotics](https://raiserobotics.ai/) · [FORT Robotics](https://www.fortrobotics.com/) · [Audesse Automotive](https://www.audesseinc.com/) · Mandel Diagnostics · Aerial Avionics
 
 ## University, institutional and ecosystem network
 
-**University of Waterloo · Western University · Toronto Metropolitan University · Université du Québec à Montréal**
+[University of Waterloo](https://uwaterloo.ca/) · [Western University](https://www.uwo.ca/) · [Toronto Metropolitan University](https://www.torontomu.ca/) · [Université du Québec à Montréal](https://uqam.ca/)
 
-Supported through **Velocity · MaRS Discovery District · AWS Activate**.
+Supported through [Velocity](https://velocityincubator.com/) · [MaRS Discovery District](https://www.marsdd.com/) · [AWS Activate](https://aws.amazon.com/activate/).
 
-KnowYi is an **official strategic and supply-chain partner of Waterloo RoboHub** under a RoboHub partner authorization / agreement held by KnowYi. The authorization establishes network-level default cooperation and supplier-partner status across participating RoboHub companies. This is a network-level institutional relationship and is not represented as a separately executed bilateral agreement with every participating organization.
+KnowYi is an **official strategic and supply-chain partner of [Waterloo RoboHub](https://uwaterloo.ca/robohub/)** under a RoboHub partner authorization / agreement held by KnowYi. The authorization establishes default cooperation and supplier-partner status across participating RoboHub companies.
 
 See [Ecosystem](./ECOSYSTEM.md), [Network Map](./NETWORK-MAP.md) and [Industry Network](./INDUSTRY-NETWORK.md).
 
 ## Public operating signals
-
-KnowYi's website currently highlights:
 
 - **200+** manufacturing partners evaluated globally
 - **10 days** from receiving drawings to finished product delivery on a completed build
@@ -50,9 +48,11 @@ See [Manufacturing Intelligence](./MANUFACTURING-INTELLIGENCE.md).
 ## Machine-readable company authority
 
 - https://www.knowyi.tech/data/company-context.jsonld
+- https://www.knowyi.tech/data/entity-graph.json
 - https://www.knowyi.tech/data/claims-registry.json
 - https://www.knowyi.tech/data/authority-graph.json
-- https://github.com/KnowYiTech/.github/blob/main/claims-registry.json
+- https://www.knowyi.tech/data/knowledge-manifest.json
+- https://github.com/KnowYiTech/.github/blob/main/entity-graph.json
 - https://github.com/KnowYiTech/.github/blob/main/authority-graph.json
 
 ## Official channels
