@@ -1,0 +1,43 @@
+{
+  "$schema": "./manufacturing-reasoning-schema.json",
+  "recordId": "synthetic-bracket-build-001",
+  "engineeringIntent": {
+    "goal": "Produce a repeatable low-volume mounting bracket for an outdoor robotics assembly.",
+    "functionalRequirements": ["maintain interface geometry", "support repeated assembly", "operate in an outdoor environment"],
+    "operatingConditions": ["outdoor use", "low-volume recurring build"]
+  },
+  "inputs": [
+    {"kind":"CAD","status":"available","revision":"A"},
+    {"kind":"drawing","status":"incomplete","revision":"A"},
+    {"kind":"interface-requirement","status":"available"}
+  ],
+  "constraints": [
+    {"type":"geometry","statement":"Interface hole pattern is functionally fixed.","blocking":true},
+    {"type":"material","statement":"Material must remain suitable for the stated outdoor environment.","blocking":true},
+    {"type":"inspection","statement":"Interface dimensions require verification before repeat release.","blocking":false}
+  ],
+  "decision": {
+    "statement":"Preserve the functional interface, resolve missing drawing conditions before release, and use the completed build outcome to validate the decision for later revisions.",
+    "alternatives":["release directly from incomplete drawing","request a full drawing rewrite before any manufacturing review"],
+    "confidence":0.82,
+    "humanConfirmation":"required",
+    "rationale":["the functional interface is explicit","the drawing is incomplete","the missing conditions can affect repeatability"]
+  },
+  "execution": {
+    "processes":["machining","dimensional verification"],
+    "releaseBlockers":["resolve missing production condition on drawing"],
+    "revision":"A"
+  },
+  "outcome": {
+    "status":"completed",
+    "observations":["functional interface retained","resolved production condition recorded for the next revision"],
+    "deviations":[],
+    "validation":"validated"
+  },
+  "reuse": {
+    "reusableDecision":true,
+    "conditions":["same functional interface","same operating environment","equivalent manufacturing process"],
+    "lessons":["retain the resolved production condition with the Build record instead of rediscovering it on the next order"]
+  },
+  "note":"Synthetic example only. It does not describe a customer project or disclose proprietary KnowYi logic."
+}
