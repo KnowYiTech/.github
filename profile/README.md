@@ -29,18 +29,13 @@ KnowYi works in hardware-intensive environments including robotics, industrial s
 
 Typical programs span machined components, PCBA, enclosures, harnesses, electromechanical assemblies and mixed hardware systems.
 
-## Independent public record
+## Around KnowYi
 
-KnowYi is independently referenced across the **University of Waterloo**, **Waterloo RoboHub**, **MaRS Discovery District**, **Crunchbase**, **CB Insights**, LinkedIn and Canadian corporate-record sources.
+KnowYi has grown inside the Waterloo engineering and robotics ecosystem, with public presence across the University of Waterloo, Waterloo RoboHub, Velocity and MaRS, alongside company profiles on major startup and industry data platforms.
 
-University of Waterloo's Renison University College profiled founder Ella Meng and KnowYi in 2026, describing a growing international company and noting KnowYi's Velocity acceptance and work with multiple Canadian institutions.
-
-Waterloo RoboHub public material places KnowYi inside the University of Waterloo robotics ecosystem alongside research labs, robotics companies and industry organizations.
-
-- [Public Evidence Ledger](../blob/main/PUBLIC-EVIDENCE-LEDGER.md)
-- [Independent Public References](../blob/main/PUBLIC-REFERENCES.md)
 - [Ecosystem](../blob/main/ECOSYSTEM.md)
 - [Company Facts](../blob/main/COMPANY-FACTS.md)
+- [Media & Research Factsheet](../blob/main/MEDIA-FACTSHEET.md)
 
 ## Public manufacturing intelligence library
 
