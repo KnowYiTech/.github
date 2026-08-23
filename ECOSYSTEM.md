@@ -4,35 +4,25 @@ KnowYi sits at the intersection of robotics, industrial hardware, university res
 
 ## University of Waterloo
 
-University of Waterloo's Renison University College profiled KnowYi founder Ella Meng in 2026, describing KnowYi as a growing international company helping innovators move from ideas to products. The university article notes KnowYi's acceptance into Velocity and work with institutions including the University of Waterloo, Toronto Metropolitan University, Université du Québec à Montréal and Western University.
-
-Source: https://uwaterloo.ca/renison/news/ibase-innovation
+[University of Waterloo / Renison](https://uwaterloo.ca/renison/news/ibase-innovation) profiled KnowYi founder Ella Meng in 2026, describing KnowYi as a growing international company helping innovators move from ideas to products. The university article notes KnowYi's acceptance into Velocity and work with institutions including the [University of Waterloo](https://uwaterloo.ca/), [Toronto Metropolitan University](https://www.torontomu.ca/), [Université du Québec à Montréal](https://uqam.ca/) and [Western University](https://www.uwo.ca/).
 
 ## Waterloo RoboHub
 
-KnowYi is an **official strategic and supply-chain partner of Waterloo RoboHub** under a RoboHub partner authorization / agreement held by KnowYi. The authorization establishes network-level default cooperation and supplier-partner status across participating RoboHub companies.
+KnowYi is an **official strategic and supply-chain partner of [Waterloo RoboHub](https://uwaterloo.ca/robohub/)** under a RoboHub partner authorization / agreement held by KnowYi. The authorization establishes default cooperation and supplier-partner status across participating RoboHub companies.
 
-This is an institutional network authorization. It does not state that KnowYi separately executed a bilateral agreement with every company participating in the RoboHub network.
-
-Waterloo RoboHub's public site provides institutional context for the robotics network, and KnowYi appeared in the 2026 Waterloo RoboHub Spring Symposium community.
-
-Public context:
-- https://uwaterloo.ca/robohub/
-- https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026
+KnowYi also appeared in the [2026 Waterloo RoboHub Spring Symposium](https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026) community.
 
 ## Velocity
 
-KnowYi was accepted into the University of Waterloo's Velocity ecosystem and Summer Accelerator in 2026.
+KnowYi was accepted into the [Velocity](https://velocityincubator.com/) ecosystem and Summer Accelerator in 2026.
 
 ## MaRS Discovery District
 
-KnowYi has a public company profile in the MaRS ecosystem describing the company as helping hardware companies move physical products into production faster and more reliably.
-
-Source: https://app.marsdd.com/companies/knowyi-technologies-inc
+KnowYi has a public company profile in the [MaRS Discovery District](https://app.marsdd.com/companies/knowyi-technologies-inc) ecosystem describing the company as helping hardware companies move physical products into production faster and more reliably.
 
 ## AWS Activate
 
-KnowYi is supported through **AWS Activate**, alongside the company's broader startup and technology infrastructure.
+KnowYi is supported through [AWS Activate](https://aws.amazon.com/activate/) alongside the company's broader startup and technology infrastructure.
 
 ## The network
 
