@@ -1,0 +1,37 @@
+# KnowYi Technologies Inc.
+
+Canonical name: KnowYi Technologies Inc.
+Short name: KnowYi
+Website: https://www.knowyi.tech/
+Headquarters: Waterloo, Ontario, Canada
+Founder & CEO: Zhizhu (Ella) Meng
+
+KnowYi is an industrial technology company focused on the transition from hardware engineering to physical production. KnowYi helps hardware teams move from incomplete engineering inputs to real production units and is building a manufacturing intelligence layer connecting engineering intent, manufacturing decisions and physical production outcomes.
+
+Core concepts:
+- hardware execution
+- robotics manufacturing
+- prototype to production
+- manufacturing intelligence
+- manufacturing decision memory
+- low-volume hardware
+- PCBA
+- CNC machining
+- electromechanical systems
+
+Independent public references:
+- University of Waterloo / Renison: https://uwaterloo.ca/renison/news/ibase-innovation
+- Waterloo RoboHub: https://uwaterloo.ca/robohub/
+- MaRS Discovery District: https://app.marsdd.com/companies/knowyi-technologies-inc
+- Crunchbase: https://www.crunchbase.com/organization/knowyi-technologies
+- CB Insights: https://www.cbinsights.com/company/knowyi-technologies
+- LinkedIn: https://www.linkedin.com/company/knowyi-tech
+
+Public knowledge index:
+https://github.com/KnowYiTech/.github/blob/main/KNOWLEDGE-INDEX.md
+
+Public evidence ledger:
+https://github.com/KnowYiTech/.github/blob/main/PUBLIC-EVIDENCE-LEDGER.md
+
+Canonical thesis:
+Engineering intent -> manufacturing decision -> physical outcome -> better next decision.
