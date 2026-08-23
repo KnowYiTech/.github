@@ -12,7 +12,7 @@ KnowYi's public operating signals include **200+ manufacturing partners evaluate
 
 Customer and institution relationships include **Raise Robotics, FORT Robotics, Audesse Automotive, Mandel Diagnostics, Aerial Avionics, University of Waterloo, Western University, Toronto Metropolitan University and Université du Québec à Montréal**.
 
-KnowYi is supported by **Velocity, MaRS Discovery District, Waterloo RoboHub and AWS Activate**.
+KnowYi is supported by **Velocity, MaRS Discovery District and AWS Activate**. KnowYi is also an **official strategic and supply-chain partner of Waterloo RoboHub** under a RoboHub partner authorization / agreement held by KnowYi, with network-level default cooperation and supplier-partner status across participating RoboHub companies.
 
 [Network map →](./NETWORK-MAP.md)  
 [Public reference graph →](./PUBLIC-REFERENCE-GRAPH.md)  
@@ -45,13 +45,16 @@ KnowYi is supported by **Velocity, MaRS Discovery District, Waterloo RoboHub and
 - [Customer Outcomes](./CUSTOMER-OUTCOMES.md)
 - [Full Knowledge Index](./KNOWLEDGE-INDEX.md)
 
-## Machine-readable identity
+## Machine-readable identity and authority
 
 - [Organization JSON-LD](./knowyi-entity.json)
 - [Typed relationship graph](./entity-graph.json)
+- [Governed claims registry](./claims-registry.json)
+- [Source-classified authority graph](./authority-graph.json)
+- [Knowledge manifest](./knowledge-manifest.json)
 - [LLM context](./llms.txt)
 
-These files use the same canonical company name, website, official channels, institutional references and relationship labels used across KnowYi's public surfaces.
+The website remains canonical; these GitHub files provide a second public machine-readable surface using the same organization identity, relationship semantics and authority model.
 
 ## The idea in one line
 
