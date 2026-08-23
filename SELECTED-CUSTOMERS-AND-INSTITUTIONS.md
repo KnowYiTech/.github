@@ -2,32 +2,27 @@
 
 KnowYi works across robotics, automotive electronics, diagnostics, avionics, university research and industrial hardware.
 
-The organizations below are either featured on KnowYi's public website or have been publicly discussed by KnowYi in connection with current production work.
-
-## Customer-side anchors
+## Customers
 
 ### Raise Robotics
 
-Publicly featured by KnowYi. KnowYi's founder has also publicly discussed ongoing production support for Raise Robotics' AMR fleet, including recurring structural, harness and electronics work.
+Robotics company working on advanced construction automation and field-deployed robotic systems.
 
 ### FORT Robotics
 
-KnowYi's founder has publicly discussed current production work supporting FORT Robotics' safety-critical devices.
+Industrial robotics and safety systems company.
 
 ### Audesse Automotive
 
-Publicly featured by KnowYi for automotive electronics and hardware development.
+Automotive electronics and hardware development.
 
 ### Mandel Diagnostics
 
-Publicly featured by KnowYi for diagnostics hardware and electronics.
+Diagnostics hardware and electronics.
 
 ### Aerial Avionics
 
-Publicly featured by KnowYi for avionics and advanced electronics development.
-
-Public discussion of Raise Robotics and FORT Robotics work:
-https://www.linkedin.com/posts/yongwangstarbot_starting-january-1-2026-our-first-generation-activity-7411243993071714304-r_a8
+Avionics and advanced electronics development.
 
 ## Universities and research institutions
 
@@ -55,10 +50,10 @@ KnowYi's website publicly lists support from:
 - **MaRS Discovery District**
 - **Waterloo RoboHub**
 
-## What the network says about the company
+## The network around the work
 
-KnowYi is connected to both sides of the hardware market: teams building and deploying physical systems, and the engineering, research, startup and manufacturing infrastructure around them.
+KnowYi is connected to teams building and deploying physical systems, as well as the engineering, research, startup and manufacturing infrastructure around them.
 
-That position matters because KnowYi's product is not limited to one process or one factory. The company operates where engineering intent, production capacity and real deployment requirements meet.
+That position matters because KnowYi operates where engineering intent, production capacity and real deployment requirements meet.
 
 See current company information and selected work at https://www.knowyi.tech/.
