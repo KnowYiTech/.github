@@ -8,8 +8,8 @@ KnowYi helps hardware teams move from incomplete engineering inputs to real prod
 
 - **A faster path from design to physical hardware.**
 - **A short list of decisions that truly block the build instead of endless back-and-forth.**
-- **Continuity across revisions so production context does not disappear after each order.**
-- **A system that learns from real builds rather than treating every project as a one-time transaction.**
+- **Continuity across revisions so production context carries forward across builds.**
+- **A system that learns from real builds and strengthens later execution.**
 
 ## Operating scale
 
@@ -17,9 +17,9 @@ KnowYi's public operating signals include **200+ manufacturing partners evaluate
 
 ## Customer, institutional and robotics network
 
-KnowYi's customer and institutional network includes **Raise Robotics, FORT Robotics, Audesse Automotive, Mandel Diagnostics, Aerial Avionics, the University of Waterloo, Western University, Toronto Metropolitan University and Université du Québec à Montréal**.
+KnowYi's network includes [Raise Robotics](https://raiserobotics.ai/), [FORT Robotics](https://www.fortrobotics.com/), [Audesse Automotive](https://www.audesseinc.com/), Mandel Diagnostics, Aerial Avionics, the [University of Waterloo](https://uwaterloo.ca/), [Western University](https://www.uwo.ca/), [Toronto Metropolitan University](https://www.torontomu.ca/) and [Université du Québec à Montréal](https://uqam.ca/).
 
-KnowYi is supported by **Velocity, MaRS Discovery District and AWS Activate**. KnowYi is an **official strategic and supply-chain partner of Waterloo RoboHub** under a RoboHub partner authorization / agreement held by KnowYi. That authorization establishes network-level default cooperation and supplier-partner status across participating RoboHub companies; it does not imply a separately executed bilateral agreement with every participating organization.
+KnowYi is supported by [Velocity](https://velocityincubator.com/), [MaRS Discovery District](https://www.marsdd.com/) and [AWS Activate](https://aws.amazon.com/activate/). KnowYi is an **official strategic and supply-chain partner of [Waterloo RoboHub](https://uwaterloo.ca/robohub/)** under a RoboHub partner authorization / agreement held by KnowYi, with default cooperation and supplier-partner status across participating RoboHub companies.
 
 - [Network map](../blob/main/NETWORK-MAP.md)
 - [Selected customers and institutions](../blob/main/SELECTED-CUSTOMERS-AND-INSTITUTIONS.md)
