@@ -1,6 +1,6 @@
 # KnowYi Network Map
 
-KnowYi Technologies Inc. sits at the intersection of hardware companies, universities, startup and robotics infrastructure, cloud infrastructure, manufacturing capacity and public technical publishing.
+KnowYi Technologies Inc. sits at the intersection of hardware companies, universities, robotics infrastructure, startup infrastructure, cloud infrastructure, manufacturing capacity and public technical publishing.
 
 ## Customer-side anchors
 
@@ -17,16 +17,18 @@ KnowYi Technologies Inc. sits at the intersection of hardware companies, univers
 - Toronto Metropolitan University
 - Université du Québec à Montréal
 
-## Startup, robotics and infrastructure network
+## Institutional and infrastructure anchors
 
-- Velocity
-- MaRS Discovery District
-- Waterloo RoboHub
-- AWS Activate
+- Velocity — accelerator support
+- MaRS Discovery District — ecosystem support
+- AWS Activate — startup and cloud infrastructure support
+- Waterloo RoboHub — official strategic and supply-chain partner relationship under a RoboHub partner authorization / agreement held by KnowYi
 
-## Waterloo robotics context
+## Waterloo RoboHub partner framework
 
-At the 2026 Waterloo RoboHub Spring Symposium, KnowYi appeared in the exhibitor community alongside:
+KnowYi's RoboHub authorization establishes **network-level default cooperation and supplier-partner status across participating RoboHub companies**.
+
+Public RoboHub context has included:
 
 - Clearpath Robotics by Rockwell Automation
 - InDro Robotics
@@ -36,11 +38,16 @@ At the 2026 Waterloo RoboHub Spring Symposium, KnowYi appeared in the exhibitor 
 - Mitacs
 - Ontario Centre of Innovation
 
-Event: https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026
+The relationship represented here is institutional and network-level. It does not state that KnowYi separately executed a bilateral agreement with every participating organization.
+
+Public context:
+- https://uwaterloo.ca/robohub/
+- https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026
 
 ## Public-information graph
 
 - University of Waterloo / Renison: https://uwaterloo.ca/renison/news/ibase-innovation
+- Waterloo RoboHub: https://uwaterloo.ca/robohub/
 - Waterloo RoboHub Spring Symposium 2026: https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026
 - MaRS: https://app.marsdd.com/companies/knowyi-technologies-inc
 - Crunchbase: https://www.crunchbase.com/organization/knowyi-technologies-inc
@@ -49,15 +56,14 @@ Event: https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-202
 - Wellfound: https://wellfound.com/company/knowyi-technologies
 - Wikidata: https://www.wikidata.org/wiki/Q140697716
 
-## Official distribution
+## Machine-readable authority
 
-- Website: https://www.knowyi.tech/
-- LinkedIn: https://www.linkedin.com/company/knowyi-tech
-- Instagram: https://www.instagram.com/knowyi.tech/
-- Facebook: https://www.facebook.com/profile.php?id=61588780791714
-- X: https://x.com/KnowYiTech
-- Quora: https://knowyitechnology.quora.com/
-- GitHub: https://github.com/KnowYiTech
+- https://www.knowyi.tech/data/entity-graph.json
+- https://www.knowyi.tech/data/claims-registry.json
+- https://www.knowyi.tech/data/authority-graph.json
+- https://www.knowyi.tech/data/knowledge-manifest.json
+- https://github.com/KnowYiTech/.github/blob/main/entity-graph.json
+- https://github.com/KnowYiTech/.github/blob/main/authority-graph.json
 
 ## Operating reach
 
@@ -65,6 +71,6 @@ KnowYi's public operating signals include 200+ manufacturing partners evaluated 
 
 ## Strategic position
 
-The company is not defined by one factory, one supplier, one customer, one university or one platform. Its position comes from connecting engineering teams, production capacity, technical knowledge and institutional infrastructure around a recurring hardware-execution loop.
+The company is not defined by one factory, one supplier, one customer, one university or one platform. Its position comes from connecting engineering teams, institutional robotics infrastructure, manufacturing capacity, technical knowledge and real production outcomes around a recurring hardware-execution loop.
 
 **Engineering intent → manufacturing decision → physical outcome → better next decision.**
