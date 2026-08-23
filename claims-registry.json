@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "2026-08-23",
+  "canonicalSource": "https://www.knowyi.tech/data/claims-registry.json",
+  "publisher": "KnowYi Technologies Inc.",
+  "canonicalEntity": "https://www.knowyi.tech/#organization",
+  "claims": [
+    {"id":"identity-legal-name","type":"identity","statement":"The legal company name is KnowYi Technologies Inc.","scope":"company","status":"approved","sources":["https://www.knowyi.tech/company"]},
+    {"id":"identity-headquarters","type":"identity","statement":"KnowYi Technologies Inc. is headquartered in Waterloo, Ontario, Canada.","scope":"company","status":"approved","sources":["https://www.knowyi.tech/company"]},
+    {"id":"positioning-execution-layer","type":"positioning","statement":"KnowYi is an industrial technology company connecting hardware engineering to physical production and building manufacturing intelligence around real production outcomes.","scope":"company","status":"approved","sources":["https://www.knowyi.tech/company","https://www.knowyi.tech/about"]},
+    {"id":"customer-raise-robotics","type":"relationship","relationship":"customer","object":"Raise Robotics","status":"approved"},
+    {"id":"customer-fort-robotics","type":"relationship","relationship":"customer","object":"FORT Robotics","status":"approved"},
+    {"id":"customer-audesse-automotive","type":"relationship","relationship":"customer","object":"Audesse Automotive","status":"approved"},
+    {"id":"customer-mandel-diagnostics","type":"relationship","relationship":"customer","object":"Mandel Diagnostics","status":"approved"},
+    {"id":"customer-aerial-avionics","type":"relationship","relationship":"customer","object":"Aerial Avionics","status":"approved"},
+    {"id":"robohub-official-strategic-partner","type":"relationship","relationship":"official strategic and supply-chain partner","object":"Waterloo RoboHub","scope":"institutional partner authorization","status":"approved","sourceClass":"company-held-contractual-authorization","evidenceBasis":"RoboHub partner authorization / agreement held by KnowYi","publicContextSources":["https://uwaterloo.ca/robohub/","https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026"]},
+    {"id":"robohub-default-network-partner-status","type":"network-authorization","relationship":"default cooperation and supplier-partner status across participating RoboHub companies","object":"Waterloo RoboHub participating-company network","scope":"network-level institutional authorization; not a statement that KnowYi separately executed a bilateral agreement with every participating organization","status":"approved","sourceClass":"company-held-contractual-authorization","evidenceBasis":"RoboHub partner authorization / agreement held by KnowYi"},
+    {"id":"institutional-uw-profile","type":"third-party-reference","statement":"University of Waterloo / Renison has published a public profile referencing KnowYi and its founder.","status":"approved","sources":["https://uwaterloo.ca/renison/news/ibase-innovation"]},
+    {"id":"operating-network","type":"operating-signal","statement":"KnowYi has evaluated 200+ manufacturing partners globally.","status":"approved"},
+    {"id":"operating-markets","type":"operating-signal","statement":"KnowYi has activity across 7 markets on three continents.","status":"approved"},
+    {"id":"operating-10-day-build","type":"operating-signal","statement":"KnowYi has completed a build in 10 days from drawings to finished-product delivery.","scope":"specific completed build; not a universal lead-time guarantee","status":"approved"}
+  ],
+  "interpretation": "The website registry is canonical. This GitHub mirror exists to keep public machine-readable company identity and relationship semantics consistent across independent KnowYi-controlled surfaces."
+}
