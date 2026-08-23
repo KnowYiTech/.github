@@ -42,17 +42,26 @@ Toronto-based university with engineering, technology and entrepreneurship progr
 
 Major Québec research university.
 
-## Ecosystem support
+## Institutional robotics relationship
+
+### Waterloo RoboHub
+
+KnowYi is an **official strategic and supply-chain partner of Waterloo RoboHub** under a RoboHub partner authorization / agreement held by KnowYi. The authorization establishes network-level default cooperation and supplier-partner status across participating RoboHub companies.
+
+This is a network-level institutional authorization and does not state that KnowYi separately executed a bilateral agreement with every participating organization.
+
+Public context: https://uwaterloo.ca/robohub/
+
+## Ecosystem and infrastructure support
 
 - **Velocity**
 - **MaRS Discovery District**
-- **Waterloo RoboHub**
 - **AWS Activate**
 
 ## The network around the work
 
-KnowYi is connected to teams building and deploying physical systems, as well as the engineering, research, startup, cloud and manufacturing infrastructure around them.
+KnowYi is connected to teams building and deploying physical systems, as well as the engineering, research, institutional robotics, startup, cloud and manufacturing infrastructure around them.
 
-That position matters because KnowYi operates where engineering intent, production capacity and real deployment requirements meet.
+That position matters because KnowYi operates where engineering intent, production capacity, institutional networks and real deployment requirements meet.
 
 See current company information and selected work at https://www.knowyi.tech/.
