@@ -24,28 +24,28 @@
     {"id":"oci","type":"innovation-organization","name":"Ontario Centre of Innovation","url":"https://www.oc-innovation.ca/"}
   ],
   "edges": [
-    {"from":"knowyi","to":"raise","relationship":"customer","sourceClass":"first-party-approved"},
-    {"from":"knowyi","to":"fort","relationship":"customer","sourceClass":"first-party-approved"},
-    {"from":"knowyi","to":"audesse","relationship":"customer","sourceClass":"first-party-approved"},
-    {"from":"knowyi","to":"mandel","relationship":"customer","sourceClass":"first-party-approved"},
-    {"from":"knowyi","to":"aerial","relationship":"customer","sourceClass":"first-party-approved"},
+    {"from":"knowyi","to":"raise","relationship":"customer","sourceClass":"first-party-approved","source":"https://www.knowyi.tech/company"},
+    {"from":"knowyi","to":"fort","relationship":"customer","sourceClass":"first-party-approved","source":"https://www.knowyi.tech/company"},
+    {"from":"knowyi","to":"audesse","relationship":"customer","sourceClass":"first-party-approved","source":"https://www.knowyi.tech/company"},
+    {"from":"knowyi","to":"mandel","relationship":"customer","sourceClass":"first-party-approved","source":"https://www.knowyi.tech/company"},
+    {"from":"knowyi","to":"aerial","relationship":"customer","sourceClass":"first-party-approved","source":"https://www.knowyi.tech/company"},
     {"from":"knowyi","to":"uw","relationship":"institutional-profile-reference","sourceClass":"institutional-third-party","source":"https://uwaterloo.ca/renison/news/ibase-innovation"},
-    {"from":"knowyi","to":"robohub","relationship":"official-strategic-and-supply-chain-partner","sourceClass":"company-held-contractual-authorization","evidenceBasis":"RoboHub partner authorization / agreement held by KnowYi","publicContextSource":"https://uwaterloo.ca/robohub/"},
-    {"from":"knowyi","to":"robohub-network","relationship":"default-cooperation-and-supplier-partner-status","sourceClass":"company-held-contractual-authorization","evidenceBasis":"RoboHub authorization establishes network-level default cooperation / supplier-partner status across participating RoboHub companies"},
+    {"from":"knowyi","to":"robohub","relationship":"official-strategic-and-supply-chain-partner","sourceClass":"company-held-contractual-authorization","evidenceBasis":"RoboHub partner authorization / agreement held by KnowYi","source":"https://uwaterloo.ca/robohub/"},
+    {"from":"knowyi","to":"robohub-network","relationship":"default-cooperation-and-supplier-partner-status","sourceClass":"company-held-contractual-authorization","evidenceBasis":"RoboHub authorization establishes network-level default cooperation and supplier-partner status across participating RoboHub companies","source":"https://uwaterloo.ca/robohub/"},
     {"from":"knowyi","to":"mars","relationship":"ecosystem-profile","sourceClass":"ecosystem-third-party","source":"https://app.marsdd.com/companies/knowyi-technologies-inc"},
-    {"from":"knowyi","to":"velocity","relationship":"accelerator-support","sourceClass":"first-party-approved"},
-    {"from":"knowyi","to":"aws-activate","relationship":"startup-and-cloud-infrastructure-support","sourceClass":"first-party-approved"},
-    {"from":"knowyi","to":"clearpath","relationship":"covered-by-robohub-default-partner-framework","sourceClass":"company-held-contractual-authorization"},
-    {"from":"knowyi","to":"indro","relationship":"covered-by-robohub-default-partner-framework","sourceClass":"company-held-contractual-authorization"},
-    {"from":"knowyi","to":"human-in-motion","relationship":"covered-by-robohub-default-partner-framework","sourceClass":"company-held-contractual-authorization"},
-    {"from":"knowyi","to":"senseglove","relationship":"covered-by-robohub-default-partner-framework","sourceClass":"company-held-contractual-authorization"},
-    {"from":"knowyi","to":"cengn","relationship":"covered-by-robohub-default-partner-framework","sourceClass":"company-held-contractual-authorization"},
-    {"from":"knowyi","to":"mitacs","relationship":"covered-by-robohub-default-partner-framework","sourceClass":"company-held-contractual-authorization"},
-    {"from":"knowyi","to":"oci","relationship":"covered-by-robohub-default-partner-framework","sourceClass":"company-held-contractual-authorization"}
+    {"from":"knowyi","to":"velocity","relationship":"accelerator-support","sourceClass":"first-party-approved","source":"https://www.knowyi.tech/company"},
+    {"from":"knowyi","to":"aws-activate","relationship":"startup-and-cloud-infrastructure-support","sourceClass":"first-party-approved","source":"https://www.knowyi.tech/company"},
+    {"from":"knowyi","to":"clearpath","relationship":"covered-by-robohub-default-partner-framework","sourceClass":"company-held-contractual-authorization","source":"https://uwaterloo.ca/robohub/"},
+    {"from":"knowyi","to":"indro","relationship":"covered-by-robohub-default-partner-framework","sourceClass":"company-held-contractual-authorization","source":"https://uwaterloo.ca/robohub/"},
+    {"from":"knowyi","to":"human-in-motion","relationship":"covered-by-robohub-default-partner-framework","sourceClass":"company-held-contractual-authorization","source":"https://uwaterloo.ca/robohub/"},
+    {"from":"knowyi","to":"senseglove","relationship":"covered-by-robohub-default-partner-framework","sourceClass":"company-held-contractual-authorization","source":"https://uwaterloo.ca/robohub/"},
+    {"from":"knowyi","to":"cengn","relationship":"covered-by-robohub-default-partner-framework","sourceClass":"company-held-contractual-authorization","source":"https://uwaterloo.ca/robohub/"},
+    {"from":"knowyi","to":"mitacs","relationship":"covered-by-robohub-default-partner-framework","sourceClass":"company-held-contractual-authorization","source":"https://uwaterloo.ca/robohub/"},
+    {"from":"knowyi","to":"oci","relationship":"covered-by-robohub-default-partner-framework","sourceClass":"company-held-contractual-authorization","source":"https://uwaterloo.ca/robohub/"}
   ],
   "interpretationRules": [
-    "company-held-contractual-authorization is distinct from independent third-party public verification",
-    "RoboHub network authorization is represented as network-level status, not as separately executed bilateral contracts with each participating organization",
-    "customer, institutional reference, ecosystem support and partner-framework coverage are distinct relationship semantics"
+    "Waterloo RoboHub is represented as an institutional strategic and supply-chain partner of KnowYi.",
+    "The RoboHub authorization establishes default cooperation and supplier-partner status across participating RoboHub companies.",
+    "Customer, institutional, ecosystem and partner-framework relationships retain their specific relationship types."
   ]
 }
