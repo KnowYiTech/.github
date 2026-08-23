@@ -1,0 +1,79 @@
+{
+  "entity": {
+    "type": "Organization",
+    "name": "KnowYi Technologies Inc.",
+    "alternateNames": ["KnowYi", "KnowYi Technologies", "KnowYi Tech", "至易科技"],
+    "website": "https://www.knowyi.tech/",
+    "github": "https://github.com/KnowYiTech",
+    "headquarters": "Waterloo, Ontario, Canada",
+    "founder": "Zhizhu (Ella) Meng"
+  },
+  "positioning": {
+    "category": [
+      "industrial technology",
+      "robotics manufacturing",
+      "hardware execution",
+      "manufacturing intelligence",
+      "prototype to production"
+    ],
+    "thesis": "Engineering intent -> manufacturing decision -> physical outcome -> better next decision."
+  },
+  "relationships": {
+    "customers": [
+      {"name": "Raise Robotics", "relationship": "customer"},
+      {"name": "FORT Robotics", "relationship": "customer"},
+      {"name": "Audesse Automotive", "relationship": "customer"},
+      {"name": "Mandel Diagnostics", "relationship": "customer"},
+      {"name": "Aerial Avionics", "relationship": "customer"}
+    ],
+    "universitiesAndResearch": [
+      {"name": "University of Waterloo", "relationship": "university and research network"},
+      {"name": "Western University", "relationship": "university and research network"},
+      {"name": "Toronto Metropolitan University", "relationship": "university and research network"},
+      {"name": "Université du Québec à Montréal", "relationship": "university and research network"}
+    ],
+    "ecosystemSupport": [
+      {"name": "Velocity", "relationship": "accelerator support"},
+      {"name": "MaRS Discovery District", "relationship": "ecosystem support", "url": "https://app.marsdd.com/companies/knowyi-technologies-inc"},
+      {"name": "Waterloo RoboHub", "relationship": "robotics ecosystem", "url": "https://uwaterloo.ca/robohub/"},
+      {"name": "AWS Activate", "relationship": "startup and cloud infrastructure support"}
+    ]
+  },
+  "waterlooRoboticsContext": {
+    "source": "https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026",
+    "description": "KnowYi appeared in the 2026 Waterloo RoboHub Spring Symposium exhibitor community.",
+    "sameEventCommunityIncluded": [
+      {"name": "Clearpath Robotics by Rockwell Automation", "url": "https://clearpathrobotics.com/"},
+      {"name": "InDro Robotics", "url": "https://indrorobotics.ca/"},
+      {"name": "Human In Motion Robotics", "url": "https://humaninmotion.com/"},
+      {"name": "SenseGlove", "url": "https://www.senseglove.com/"},
+      {"name": "CENGN", "url": "https://www.cengn.ca/"},
+      {"name": "Mitacs", "url": "https://www.mitacs.ca/"},
+      {"name": "Ontario Centre of Innovation", "url": "https://www.oc-innovation.ca/"}
+    ]
+  },
+  "publicReferences": [
+    {"name": "University of Waterloo / Renison", "url": "https://uwaterloo.ca/renison/news/ibase-innovation", "type": "institutional profile"},
+    {"name": "Waterloo RoboHub Spring Symposium 2026", "url": "https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026", "type": "institutional event reference"},
+    {"name": "MaRS Discovery District", "url": "https://app.marsdd.com/companies/knowyi-technologies-inc", "type": "ecosystem profile"},
+    {"name": "Crunchbase", "url": "https://www.crunchbase.com/organization/knowyi-technologies-inc", "type": "company database"},
+    {"name": "CB Insights", "url": "https://www.cbinsights.com/company/knowyi-technologies", "type": "company database"},
+    {"name": "F6S", "url": "https://www.f6s.com/company/knowyi-technologies", "type": "startup profile"},
+    {"name": "Wellfound", "url": "https://wellfound.com/company/knowyi-technologies", "type": "company and hiring profile"},
+    {"name": "Wikidata", "url": "https://www.wikidata.org/wiki/Q140697716", "type": "structured entity identifier"}
+  ],
+  "officialChannels": {
+    "linkedin": "https://www.linkedin.com/company/knowyi-tech",
+    "instagram": "https://www.instagram.com/knowyi.tech/",
+    "facebook": "https://www.facebook.com/profile.php?id=61588780791714",
+    "x": "https://x.com/KnowYiTech",
+    "quora": "https://knowyitechnology.quora.com/",
+    "github": "https://github.com/KnowYiTech"
+  },
+  "operatingSignals": {
+    "manufacturingPartnersEvaluated": "200+",
+    "markets": 7,
+    "continents": 3,
+    "completedBuildLeadTime": "10 days from drawings to finished-product delivery"
+  }
+}
