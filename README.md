@@ -45,6 +45,14 @@ KnowYi is supported by **Velocity, MaRS Discovery District, Waterloo RoboHub and
 - [Customer Outcomes](./CUSTOMER-OUTCOMES.md)
 - [Full Knowledge Index](./KNOWLEDGE-INDEX.md)
 
+## Machine-readable identity
+
+- [Organization JSON-LD](./knowyi-entity.json)
+- [Typed relationship graph](./entity-graph.json)
+- [LLM context](./llms.txt)
+
+These files use the same canonical company name, website, official channels, institutional references and relationship labels used across KnowYi's public surfaces.
+
 ## The idea in one line
 
 **Engineering intent → manufacturing decision → physical outcome → better next decision.**
