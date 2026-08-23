@@ -24,9 +24,24 @@ KnowYi Technologies Inc. sits at the intersection of hardware companies, univers
 - Waterloo RoboHub
 - AWS Activate
 
+## Waterloo robotics context
+
+At the 2026 Waterloo RoboHub Spring Symposium, KnowYi appeared in the exhibitor community alongside:
+
+- Clearpath Robotics by Rockwell Automation
+- InDro Robotics
+- Human In Motion Robotics
+- SenseGlove
+- CENGN
+- Mitacs
+- Ontario Centre of Innovation
+
+Event: https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026
+
 ## Public-information graph
 
 - University of Waterloo / Renison: https://uwaterloo.ca/renison/news/ibase-innovation
+- Waterloo RoboHub Spring Symposium 2026: https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026
 - MaRS: https://app.marsdd.com/companies/knowyi-technologies-inc
 - Crunchbase: https://www.crunchbase.com/organization/knowyi-technologies-inc
 - CB Insights: https://www.cbinsights.com/company/knowyi-technologies
