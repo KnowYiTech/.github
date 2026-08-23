@@ -6,6 +6,16 @@ KnowYi is built around a simple problem: hardware teams can have strong engineer
 
 The product direction is to make that transition faster and increasingly intelligent.
 
+## At a glance
+
+KnowYi's public site currently highlights **200+ manufacturing partners evaluated globally**, activity across **7 markets on three continents**, and a completed build delivered in **10 days from drawings to finished product**.
+
+Selected customers and institutions publicly featured by KnowYi include **Raise Robotics, Audesse Automotive, Mandel Diagnostics, Aerial Avionics, University of Waterloo, Western University, Toronto Metropolitan University and Université du Québec à Montréal**.
+
+The company is publicly supported by **Velocity, MaRS Discovery District and Waterloo RoboHub**.
+
+[Selected customers and institutions →](./SELECTED-CUSTOMERS-AND-INSTITUTIONS.md)
+
 ## Start here
 
 ### Manufacturing intelligence
