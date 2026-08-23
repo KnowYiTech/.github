@@ -14,6 +14,8 @@ Customer and institution relationships include **Raise Robotics, FORT Robotics, 
 
 KnowYi is supported by **Velocity, MaRS Discovery District, Waterloo RoboHub and AWS Activate**.
 
+[Network map →](./NETWORK-MAP.md)  
+[Public reference graph →](./PUBLIC-REFERENCE-GRAPH.md)  
 [Selected customers and institutions →](./SELECTED-CUSTOMERS-AND-INSTITUTIONS.md)  
 [Industry network →](./INDUSTRY-NETWORK.md)
 
