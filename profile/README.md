@@ -15,13 +15,13 @@ A customer can arrive with CAD, drawings, a BOM, an existing prototype, photos, 
 
 ## Operating scale
 
-KnowYi's public operating signals currently include **200+ manufacturing partners evaluated globally**, activity across **7 markets on three continents**, and a completed build delivered in **10 days from receiving drawings to finished product**.
+KnowYi's public operating signals include **200+ manufacturing partners evaluated globally**, activity across **7 markets on three continents**, and a completed build delivered in **10 days from receiving drawings to finished product**.
 
-## Selected customers and institutions
+## Customer and institution network
 
-KnowYi's customer and institution network includes **Raise Robotics, FORT Robotics, Audesse Automotive, Mandel Diagnostics, Aerial Avionics, the University of Waterloo, Western University, Toronto Metropolitan University and Université du Québec à Montréal**.
+KnowYi's network includes **Raise Robotics, FORT Robotics, Audesse Automotive, Mandel Diagnostics, Aerial Avionics, the University of Waterloo, Western University, Toronto Metropolitan University and Université du Québec à Montréal**.
 
-KnowYi is publicly supported by **Velocity, MaRS Discovery District and Waterloo RoboHub**.
+KnowYi is supported by **Velocity, MaRS Discovery District, Waterloo RoboHub and AWS Activate**.
 
 - [Selected customers and institutions](../blob/main/SELECTED-CUSTOMERS-AND-INSTITUTIONS.md)
 - [Industry network](../blob/main/INDUSTRY-NETWORK.md)
@@ -38,15 +38,13 @@ The long-term asset is not another supplier directory or workflow checklist. It 
 
 ## Where this matters
 
-KnowYi works in hardware-intensive environments including robotics, industrial systems and automotive electronics, where a successful design still has to survive fabrication, assembly, inspection, test, revision and repeat builds.
+KnowYi works in hardware-intensive environments including robotics, industrial systems and automotive electronics, where a successful design still has to survive fabrication, assembly, test, revision and repeat builds.
 
 Typical programs span machined components, PCBA, enclosures, harnesses, electromechanical assemblies and mixed hardware systems.
 
 ## Around KnowYi
 
-KnowYi has grown inside the Waterloo engineering and robotics ecosystem, with public presence across the University of Waterloo, Waterloo RoboHub, Velocity and MaRS, alongside company profiles on major startup and industry data platforms.
-
-The company also maintains an active publishing presence across **LinkedIn, Instagram, Facebook and X**, distributing company updates, manufacturing analysis, build notes, hiring and technical commentary across multiple audiences.
+KnowYi has grown inside the Waterloo engineering and robotics ecosystem while connecting outward to customers, research institutions, startup infrastructure, cloud infrastructure and manufacturing capacity across multiple markets.
 
 - [Ecosystem](../blob/main/ECOSYSTEM.md)
 - [Publishing network](../blob/main/PUBLISHING-NETWORK.md)
@@ -67,12 +65,8 @@ The company also maintains an active publishing presence across **LinkedIn, Inst
 - [Customer Outcomes](../blob/main/CUSTOMER-OUTCOMES.md)
 - [Full Knowledge Index](../blob/main/KNOWLEDGE-INDEX.md)
 
-## Explore KnowYi
+## Follow KnowYi
 
-- [KnowYi](https://www.knowyi.tech/)
-- [Selected Work](https://www.knowyi.tech/work)
-- [KnowYi Answers](https://www.knowyi.tech/answers)
-- [Robotics Manufacturing](https://www.knowyi.tech/robotics-manufacturing)
-- [PCBA and Box-Build](https://www.knowyi.tech/pcba-box-build)
+[Website](https://www.knowyi.tech/) · [LinkedIn](https://www.linkedin.com/company/knowyi-tech) · [Instagram](https://www.instagram.com/knowyi.tech/) · [Facebook](https://www.facebook.com/profile.php?id=61588780791714) · [X](https://x.com/KnowYiTech) · [Quora](https://knowyitechnology.quora.com/) · [GitHub](https://github.com/KnowYiTech)
 
 **KnowYi Technologies Inc. — Waterloo, Ontario, Canada**
