@@ -11,16 +11,8 @@
   "founder": {"@type":"Person","name":"Zhizhu (Ella) Meng","jobTitle":"Founder & CEO"},
   "address": {"@type":"PostalAddress","addressLocality":"Waterloo","addressRegion":"Ontario","addressCountry":"CA"},
   "additionalProperty": [
-    {
-      "@type":"PropertyValue",
-      "name":"Waterloo RoboHub relationship",
-      "value":"Official strategic and supply-chain partner under a RoboHub partner authorization / agreement held by KnowYi."
-    },
-    {
-      "@type":"PropertyValue",
-      "name":"Waterloo RoboHub network authorization",
-      "value":"Default cooperation and supplier-partner status across participating RoboHub companies at the network level; not a claim of a separately executed bilateral agreement with every participating company."
-    }
+    {"@type":"PropertyValue","name":"Waterloo RoboHub relationship","value":"Official strategic and supply-chain partner under a RoboHub partner authorization / agreement held by KnowYi."},
+    {"@type":"PropertyValue","name":"Waterloo RoboHub network authorization","value":"Default cooperation and supplier-partner status across participating RoboHub companies at the network level."}
   ],
   "sameAs": [
     "https://www.linkedin.com/company/knowyi-tech",
@@ -38,7 +30,7 @@
   ],
   "subjectOf": [
     {"@type":"Article","name":"University of Waterloo / Renison profile","url":"https://uwaterloo.ca/renison/news/ibase-innovation"},
-    {"@type":"WebPage","name":"Waterloo RoboHub public context","url":"https://uwaterloo.ca/robohub/","publisher":{"@type":"Organization","name":"Waterloo RoboHub"}},
+    {"@type":"WebPage","name":"Waterloo RoboHub public context","url":"https://uwaterloo.ca/robohub/","publisher":{"@type":"Organization","name":"Waterloo RoboHub","url":"https://uwaterloo.ca/robohub/"}},
     {"@type":"Event","name":"Waterloo RoboHub Spring Symposium 2026","url":"https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026","organizer":{"@type":"Organization","name":"Waterloo RoboHub","url":"https://uwaterloo.ca/robohub/"}},
     {"@type":"WebPage","name":"MaRS company profile","url":"https://app.marsdd.com/companies/knowyi-technologies-inc"},
     {"@type":"WebPage","name":"CB Insights company profile","url":"https://www.cbinsights.com/company/knowyi-technologies"}
