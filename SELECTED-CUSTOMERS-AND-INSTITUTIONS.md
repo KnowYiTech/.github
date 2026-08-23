@@ -44,15 +44,14 @@ Major Québec research university.
 
 ## Ecosystem support
 
-KnowYi's website publicly lists support from:
-
 - **Velocity**
 - **MaRS Discovery District**
 - **Waterloo RoboHub**
+- **AWS Activate**
 
 ## The network around the work
 
-KnowYi is connected to teams building and deploying physical systems, as well as the engineering, research, startup and manufacturing infrastructure around them.
+KnowYi is connected to teams building and deploying physical systems, as well as the engineering, research, startup, cloud and manufacturing infrastructure around them.
 
 That position matters because KnowYi operates where engineering intent, production capacity and real deployment requirements meet.
 
