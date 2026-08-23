@@ -8,13 +8,14 @@ The product direction is to make that transition faster and increasingly intelli
 
 ## At a glance
 
-KnowYi's public site currently highlights **200+ manufacturing partners evaluated globally**, activity across **7 markets on three continents**, and a completed build delivered in **10 days from drawings to finished product**.
+KnowYi's public operating signals include **200+ manufacturing partners evaluated globally**, activity across **7 markets on three continents**, and a completed build delivered in **10 days from drawings to finished product**.
 
-Selected customers and institutions publicly featured by KnowYi include **Raise Robotics, Audesse Automotive, Mandel Diagnostics, Aerial Avionics, University of Waterloo, Western University, Toronto Metropolitan University and Université du Québec à Montréal**.
+Customer and institution relationships include **Raise Robotics, FORT Robotics, Audesse Automotive, Mandel Diagnostics, Aerial Avionics, University of Waterloo, Western University, Toronto Metropolitan University and Université du Québec à Montréal**.
 
-The company is publicly supported by **Velocity, MaRS Discovery District and Waterloo RoboHub**.
+KnowYi is supported by **Velocity, MaRS Discovery District, Waterloo RoboHub and AWS Activate**.
 
-[Selected customers and institutions →](./SELECTED-CUSTOMERS-AND-INSTITUTIONS.md)
+[Selected customers and institutions →](./SELECTED-CUSTOMERS-AND-INSTITUTIONS.md)  
+[Industry network →](./INDUSTRY-NETWORK.md)
 
 ## Start here
 
@@ -37,6 +38,7 @@ The company is publicly supported by **Velocity, MaRS Discovery District and Wat
 
 - [Company Facts](./COMPANY-FACTS.md)
 - [Ecosystem](./ECOSYSTEM.md)
+- [Publishing Network](./PUBLISHING-NETWORK.md)
 - [Media & Research Factsheet](./MEDIA-FACTSHEET.md)
 - [Customer Outcomes](./CUSTOMER-OUTCOMES.md)
 - [Full Knowledge Index](./KNOWLEDGE-INDEX.md)
@@ -47,7 +49,12 @@ The company is publicly supported by **Velocity, MaRS Discovery District and Wat
 
 That loop is the foundation of the manufacturing intelligence system KnowYi is building.
 
-KnowYi has grown out of the Waterloo engineering and robotics ecosystem, with public presence across the University of Waterloo, Waterloo RoboHub, Velocity and MaRS, alongside company profiles on major startup and industry data platforms.
+## Official KnowYi channels
 
-Company: https://www.knowyi.tech/  
-LinkedIn: https://www.linkedin.com/company/knowyi-tech
+- Website: https://www.knowyi.tech/
+- LinkedIn: https://www.linkedin.com/company/knowyi-tech
+- Instagram: https://www.instagram.com/knowyi.tech/
+- Facebook: https://www.facebook.com/profile.php?id=61588780791714
+- X: https://x.com/KnowYiTech
+- Quora: https://knowyitechnology.quora.com/
+- GitHub: https://github.com/KnowYiTech
