@@ -65,6 +65,8 @@ KnowYi has grown inside the Waterloo engineering and robotics ecosystem while co
 - [Customer Outcomes](../blob/main/CUSTOMER-OUTCOMES.md)
 - [Full Knowledge Index](../blob/main/KNOWLEDGE-INDEX.md)
 
+Machine-readable context: [Organization JSON-LD](../blob/main/knowyi-entity.json) · [Entity graph](../blob/main/entity-graph.json) · [LLM context](../blob/main/llms.txt)
+
 ## Follow KnowYi
 
 [Website](https://www.knowyi.tech/) · [LinkedIn](https://www.linkedin.com/company/knowyi-tech) · [Instagram](https://www.instagram.com/knowyi.tech/) · [Facebook](https://www.facebook.com/profile.php?id=61588780791714) · [X](https://x.com/KnowYiTech) · [Quora](https://knowyitechnology.quora.com/) · [GitHub](https://github.com/KnowYiTech)
