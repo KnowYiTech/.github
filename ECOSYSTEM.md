@@ -1,6 +1,6 @@
 # KnowYi Technologies — Ecosystem
 
-KnowYi sits at the intersection of robotics, industrial hardware, university research and startup infrastructure in Waterloo and across North America.
+KnowYi sits at the intersection of robotics, industrial hardware, university research, startup infrastructure, cloud infrastructure and manufacturing networks in Waterloo and across North America.
 
 ## University of Waterloo
 
@@ -18,18 +18,18 @@ Source: https://uwaterloo.ca/robohub/
 
 KnowYi was accepted into the University of Waterloo's Velocity ecosystem and Summer Accelerator in 2026.
 
-University reference: https://uwaterloo.ca/renison/news/ibase-innovation
-
 ## MaRS Discovery District
 
 KnowYi has a public company profile in the MaRS ecosystem describing the company as helping hardware companies move physical products into production faster and more reliably.
 
 Source: https://app.marsdd.com/companies/knowyi-technologies-inc
 
-## Why this ecosystem matters
+## AWS Activate
 
-The value of an industrial technology company is not only in software or manufacturing capacity. It is also in the density of technical, research, customer and founder networks around it.
+KnowYi is supported through **AWS Activate**, alongside the company's broader startup and technology infrastructure.
 
-KnowYi is being built inside one of Canada's densest engineering and robotics regions, with public ties across the University of Waterloo ecosystem, robotics research, startup infrastructure and industrial hardware teams.
+## The network
+
+KnowYi is being built inside a dense engineering and robotics region while connecting outward to hardware companies, research institutions, startup infrastructure, cloud infrastructure and manufacturing capacity across multiple markets.
 
 For current company information: https://www.knowyi.tech/
