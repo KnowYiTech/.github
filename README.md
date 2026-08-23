@@ -27,6 +27,8 @@ KnowYi is supported by **Velocity, MaRS Discovery District and AWS Activate**. K
 - [Manufacturing Decision Memory](./MANUFACTURING-DECISION-MEMORY.md)
 - [Hardware Execution Principles](./HARDWARE-EXECUTION-PRINCIPLES.md)
 - [Why Hardware Builds Stall](./WHY-HARDWARE-BUILDS-STALL.md)
+- [Public Manufacturing Reasoning Schema](./manufacturing-reasoning-schema.json)
+- [Synthetic Reasoning Example](./manufacturing-reasoning-example.json)
 
 ### Robotics and production
 
