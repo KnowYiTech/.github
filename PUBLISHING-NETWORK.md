@@ -1,42 +1,21 @@
 # KnowYi Publishing Network
 
-KnowYi maintains an active company publishing presence across **LinkedIn, Instagram, Facebook and X**, with regular company updates, manufacturing analysis, build notes, hiring, product thinking and robotics / industrial hardware commentary.
+KnowYi maintains an active company publishing presence across LinkedIn, Instagram, Facebook, X, Quora and GitHub, with regular company updates, manufacturing analysis, build notes, hiring, product thinking and robotics / industrial hardware commentary.
 
-## LinkedIn
+## Official channels
 
-KnowYi's LinkedIn company page is the most visible public channel today. It carries company updates, technical manufacturing posts, hiring, product positioning and participation in broader robotics and industrial discussions.
+- LinkedIn: https://www.linkedin.com/company/knowyi-tech
+- Instagram: https://www.instagram.com/knowyi.tech/
+- Facebook: https://www.facebook.com/profile.php?id=61588780791714
+- X: https://x.com/KnowYiTech
+- Quora: https://knowyitechnology.quora.com/
+- GitHub: https://github.com/KnowYiTech
+- Website: https://www.knowyi.tech/
 
-Company page:
-https://www.linkedin.com/company/knowyi-tech
+## One company, many entry points
 
-## Instagram
+KnowYi appears through its website and product pages, company social channels, GitHub technical and industry notes, university and robotics ecosystem pages, startup and hiring platforms, and customer-facing manufacturing content.
 
-KnowYi uses Instagram as part of its company publishing cadence for visual manufacturing, hardware and company content.
+The point is not to make each channel say the same thing. The point is that customers, engineers, founders, investors, researchers and industry operators can encounter the same KnowYi entity from different parts of the hardware ecosystem.
 
-## Facebook
-
-KnowYi maintains a Facebook publishing presence for company and manufacturing updates.
-
-## X
-
-KnowYi publishes on X as part of its broader founder, engineering and industry distribution network.
-
-## Why distribution matters
-
-KnowYi is not relying on a single corporate homepage to define the company.
-
-The company appears through:
-
-- its own website and product pages,
-- LinkedIn company and employee activity,
-- Instagram,
-- Facebook,
-- X,
-- GitHub technical and industry notes,
-- university and robotics ecosystem pages,
-- startup and hiring platforms,
-- and customer-facing manufacturing content.
-
-That creates multiple entry points into the same company: customer, engineer, founder, investor, university researcher or industry operator can encounter KnowYi from a different part of the network.
-
-The goal is simple: keep the company close to the conversations where hardware gets designed, funded, staffed, built and deployed.
+The publishing network keeps KnowYi close to the conversations where hardware gets designed, funded, staffed, built and deployed.
