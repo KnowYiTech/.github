@@ -13,6 +13,10 @@ A customer can arrive with CAD, drawings, a BOM, an existing prototype, photos, 
 - **Continuity across revisions so production context does not disappear after each order.**
 - **A system that learns from real builds rather than treating every project as a one-time transaction.**
 
+## Operating scale
+
+KnowYi's public operating signals currently include **200+ manufacturing partners evaluated globally**, activity across **7 markets on three continents**, and a completed build delivered in **10 days from receiving drawings to finished product**.
+
 ## What KnowYi is building
 
 Manufacturing has software for quoting, procurement, CAD, ERP, MES and quality. The harder gap sits between them: understanding what the engineer intended, deciding what has to happen next, and learning from what the physical build proved right or wrong.
