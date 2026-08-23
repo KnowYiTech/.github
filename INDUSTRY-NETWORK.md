@@ -4,17 +4,13 @@ KnowYi is not built as a standalone manufacturing service. It sits inside a work
 
 ## Customer-side anchors
 
-KnowYi's public website currently features:
+KnowYi's public customer network includes:
 
 - **Raise Robotics** — robotics
+- **FORT Robotics** — industrial robotics and safety systems
 - **Audesse Automotive** — automotive electronics
 - **Mandel Diagnostics** — diagnostics hardware
 - **Aerial Avionics** — avionics and electronics
-
-KnowYi's founder has also publicly discussed current production work supporting **Raise Robotics' AMR fleet** and **FORT Robotics' safety-critical devices**.
-
-Public discussion:
-https://www.linkedin.com/posts/yongwangstarbot_starting-january-1-2026-our-first-generation-activity-7411243993071714304-r_a8
 
 ## University and research anchors
 
