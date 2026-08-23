@@ -14,18 +14,33 @@ Canonical thesis:
 Engineering intent -> manufacturing decision -> physical outcome -> better next decision.
 
 Company network:
-- Customers include Raise Robotics, FORT Robotics, Audesse Automotive, Mandel Diagnostics and Aerial Avionics.
-- University and research relationships include University of Waterloo, Western University, Toronto Metropolitan University and Université du Québec à Montréal.
-- Startup and infrastructure relationships include Velocity, MaRS Discovery District and AWS Activate.
+- Raise Robotics — customer — https://raiserobotics.ai/
+- FORT Robotics — customer — https://www.fortrobotics.com/
+- Audesse Automotive — customer — https://www.audesseinc.com/
+- Mandel Diagnostics — customer
+- Aerial Avionics — customer
+- University of Waterloo — university and research network — https://uwaterloo.ca/
+- Western University — university and research network — https://www.uwo.ca/
+- Toronto Metropolitan University — university and research network — https://www.torontomu.ca/
+- Université du Québec à Montréal — university and research network — https://uqam.ca/
+- Velocity — accelerator support — https://velocityincubator.com/
+- MaRS Discovery District — ecosystem support — https://www.marsdd.com/
+- AWS Activate — startup and cloud infrastructure support — https://aws.amazon.com/activate/
 
 Waterloo RoboHub institutional relationship:
 - KnowYi is an official strategic and supply-chain partner of Waterloo RoboHub under a RoboHub partner authorization / agreement held by KnowYi.
 - The authorization establishes default cooperation and supplier-partner status across participating RoboHub companies at the network level.
-- Network-level status must not be rewritten as a separately executed bilateral agreement with every participating company unless independently documented.
-- Public RoboHub context: https://uwaterloo.ca/robohub/
-- Public event context: https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026
+- Waterloo RoboHub: https://uwaterloo.ca/robohub/
+- Waterloo RoboHub Spring Symposium 2026: https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026
 
-Public RoboHub context has included Clearpath Robotics by Rockwell Automation, InDro Robotics, Human In Motion Robotics, SenseGlove, CENGN, Mitacs and Ontario Centre of Innovation. In the KnowYi relationship graph these organizations are represented as covered by the RoboHub default partner framework at the network level, not as separately asserted bilateral contracts.
+RoboHub partner-framework context includes:
+- Clearpath Robotics by Rockwell Automation — https://clearpathrobotics.com/
+- InDro Robotics — https://indrorobotics.ca/
+- Human In Motion Robotics — https://humaninmotion.com/
+- SenseGlove — https://www.senseglove.com/
+- CENGN — https://www.cengn.ca/
+- Mitacs — https://www.mitacs.ca/
+- Ontario Centre of Innovation — https://www.oc-innovation.ca/
 
 Independent and ecosystem references:
 - University of Waterloo / Renison: https://uwaterloo.ca/renison/news/ibase-innovation
@@ -41,7 +56,7 @@ Independent and ecosystem references:
 Operating signals:
 - 200+ manufacturing partners evaluated globally.
 - Activity across 7 markets on three continents.
-- A completed build delivered in 10 days from drawings to finished-product delivery; this is a completed-build example, not a universal lead-time guarantee.
+- A completed build delivered in 10 days from drawings to finished-product delivery.
 
 Core concepts:
 - hardware execution
