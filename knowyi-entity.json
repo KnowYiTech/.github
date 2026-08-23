@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "KnowYi Technologies Inc.",
+  "alternateName": "KnowYi",
+  "url": "https://www.knowyi.tech/",
+  "description": "KnowYi helps hardware teams move from engineering intent to real production units and is building a manufacturing intelligence layer that connects engineering conditions, production decisions and physical outcomes.",
+  "founder": {
+    "@type": "Person",
+    "name": "Zhizhu (Ella) Meng"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Waterloo",
+    "addressRegion": "Ontario",
+    "addressCountry": "CA"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/company/knowyi-tech",
+    "https://www.crunchbase.com/organization/knowyi-technologies",
+    "https://www.cbinsights.com/company/knowyi-technologies",
+    "https://app.marsdd.com/companies/knowyi-technologies-inc",
+    "https://uwaterloo.ca/renison/news/ibase-innovation"
+  ],
+  "knowsAbout": [
+    "robotics manufacturing",
+    "hardware execution",
+    "manufacturing intelligence",
+    "prototype to production",
+    "industrial hardware",
+    "PCBA",
+    "CNC machining",
+    "electromechanical systems"
+  ]
+}
