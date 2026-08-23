@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/KnowYiTech/.github/blob/main/manufacturing-reasoning-schema.json",
+  "title": "KnowYi Public Manufacturing Reasoning Record",
+  "description": "A non-proprietary public schema describing the information structure behind the loop engineering intent -> manufacturing decision -> physical outcome -> better next decision. It is a public conceptual interface, not a disclosure of KnowYi proprietary models, rules or customer data.",
+  "type": "object",
+  "required": ["recordId", "engineeringIntent", "inputs", "decision", "outcome"],
+  "properties": {
+    "recordId": {"type":"string"},
+    "engineeringIntent": {
+      "type":"object",
+      "required":["goal"],
+      "properties": {
+        "goal":{"type":"string"},
+        "functionalRequirements":{"type":"array","items":{"type":"string"}},
+        "operatingConditions":{"type":"array","items":{"type":"string"}}
+      }
+    },
+    "inputs": {
+      "type":"array",
+      "items": {
+        "type":"object",
+        "required":["kind","status"],
+        "properties": {
+          "kind":{"enum":["CAD","drawing","BOM","specification","prototype","reference-image","interface-requirement","other"]},
+          "status":{"enum":["available","incomplete","conflicting","missing"]},
+          "revision":{"type":"string"}
+        }
+      }
+    },
+    "constraints": {
+      "type":"array",
+      "items": {
+        "type":"object",
+        "required":["type","statement"],
+        "properties": {
+          "type":{"enum":["geometry","material","process","assembly","inspection","environment","interface","schedule","commercial","other"]},
+          "statement":{"type":"string"},
+          "blocking":{"type":"boolean"}
+        }
+      }
+    },
+    "decision": {
+      "type":"object",
+      "required":["statement","confidence"],
+      "properties": {
+        "statement":{"type":"string"},
+        "alternatives":{"type":"array","items":{"type":"string"}},
+        "confidence":{"type":"number","minimum":0,"maximum":1},
+        "humanConfirmation":{"enum":["required","received","not-required"]},
+        "rationale":{"type":"array","items":{"type":"string"}}
+      }
+    },
+    "execution": {
+      "type":"object",
+      "properties": {
+        "processes":{"type":"array","items":{"type":"string"}},
+        "releaseBlockers":{"type":"array","items":{"type":"string"}},
+        "revision":{"type":"string"}
+      }
+    },
+    "outcome": {
+      "type":"object",
+      "required":["status"],
+      "properties": {
+        "status":{"enum":["not-started","in-production","completed","held","revised"]},
+        "observations":{"type":"array","items":{"type":"string"}},
+        "deviations":{"type":"array","items":{"type":"string"}},
+        "validation":{"enum":["unvalidated","partially-validated","validated","invalidated"]}
+      }
+    },
+    "reuse": {
+      "type":"object",
+      "properties": {
+        "reusableDecision":{"type":"boolean"},
+        "conditions":{"type":"array","items":{"type":"string"}},
+        "lessons":{"type":"array","items":{"type":"string"}}
+      }
+    }
+  }
+}
