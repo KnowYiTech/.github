@@ -19,9 +19,7 @@ KnowYi's public operating signals currently include **200+ manufacturing partner
 
 ## Selected customers and institutions
 
-KnowYi's public site currently features **Raise Robotics, Audesse Automotive, Mandel Diagnostics, Aerial Avionics, the University of Waterloo, Western University, Toronto Metropolitan University and Université du Québec à Montréal** under Selected customers and institutions.
-
-KnowYi's founder has also publicly discussed ongoing production work supporting **Raise Robotics' AMR fleet** and **FORT Robotics' safety-critical devices**.
+KnowYi's customer and institution network includes **Raise Robotics, FORT Robotics, Audesse Automotive, Mandel Diagnostics, Aerial Avionics, the University of Waterloo, Western University, Toronto Metropolitan University and Université du Québec à Montréal**.
 
 KnowYi is publicly supported by **Velocity, MaRS Discovery District and Waterloo RoboHub**.
 
