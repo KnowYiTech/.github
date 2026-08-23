@@ -1,26 +1,33 @@
 # Selected Customers and Institutions
 
-KnowYi works across robotics, automotive electronics, diagnostics, university research and industrial hardware.
+KnowYi works across robotics, automotive electronics, diagnostics, avionics, university research and industrial hardware.
 
-The following organizations are already publicly shown on KnowYi's website under **Selected customers and institutions**.
+The organizations below are either featured on KnowYi's public website or have been publicly discussed by KnowYi in connection with current production work.
 
-## Customers
+## Customer-side anchors
 
 ### Raise Robotics
 
-Robotics company working on advanced construction automation and field-deployed robotic systems.
+Publicly featured by KnowYi. KnowYi's founder has also publicly discussed ongoing production support for Raise Robotics' AMR fleet, including recurring structural, harness and electronics work.
+
+### FORT Robotics
+
+KnowYi's founder has publicly discussed current production work supporting FORT Robotics' safety-critical devices.
 
 ### Audesse Automotive
 
-Automotive electronics and hardware development.
+Publicly featured by KnowYi for automotive electronics and hardware development.
 
 ### Mandel Diagnostics
 
-Diagnostics hardware and electronics.
+Publicly featured by KnowYi for diagnostics hardware and electronics.
 
 ### Aerial Avionics
 
-Avionics and advanced electronics development.
+Publicly featured by KnowYi for avionics and advanced electronics development.
+
+Public discussion of Raise Robotics and FORT Robotics work:
+https://www.linkedin.com/posts/yongwangstarbot_starting-january-1-2026-our-first-generation-activity-7411243993071714304-r_a8
 
 ## Universities and research institutions
 
@@ -42,16 +49,16 @@ Major Québec research university.
 
 ## Ecosystem support
 
-KnowYi's website also publicly lists support from:
+KnowYi's website publicly lists support from:
 
 - **Velocity**
 - **MaRS Discovery District**
 - **Waterloo RoboHub**
 
-## The network around the work
+## What the network says about the company
 
-KnowYi sits between engineering teams that need physical products built and a broader network of robotics, industrial hardware, university research, manufacturing and startup infrastructure.
+KnowYi is connected to both sides of the hardware market: teams building and deploying physical systems, and the engineering, research, startup and manufacturing infrastructure around them.
 
-That network is part of the operating model: real builds create production knowledge, and the surrounding ecosystem creates more places for that knowledge to be applied.
+That position matters because KnowYi's product is not limited to one process or one factory. The company operates where engineering intent, production capacity and real deployment requirements meet.
 
 See current company information and selected work at https://www.knowyi.tech/.
