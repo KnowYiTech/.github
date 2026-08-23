@@ -23,19 +23,17 @@ The company is building a manufacturing intelligence layer around the relationsh
 
 ## Customer network
 
-**Raise Robotics · FORT Robotics · Audesse Automotive · Mandel Diagnostics · Aerial Avionics**
+[Raise Robotics](https://raiserobotics.ai/) · [FORT Robotics](https://www.fortrobotics.com/) · [Audesse Automotive](https://www.audesseinc.com/) · Mandel Diagnostics · Aerial Avionics
 
 ## University and institutional network
 
-**University of Waterloo · Western University · Toronto Metropolitan University · Université du Québec à Montréal**
+[University of Waterloo](https://uwaterloo.ca/) · [Western University](https://www.uwo.ca/) · [Toronto Metropolitan University](https://www.torontomu.ca/) · [Université du Québec à Montréal](https://uqam.ca/)
 
-KnowYi is an **official strategic and supply-chain partner of Waterloo RoboHub** under a RoboHub partner authorization / agreement held by KnowYi. The authorization establishes network-level default cooperation and supplier-partner status across participating RoboHub companies; it is not represented as a separately executed bilateral agreement with every participating organization.
-
-Public RoboHub context: https://uwaterloo.ca/robohub/
+KnowYi is an **official strategic and supply-chain partner of [Waterloo RoboHub](https://uwaterloo.ca/robohub/)** under a RoboHub partner authorization / agreement held by KnowYi. The authorization establishes **default cooperation and supplier-partner status across participating RoboHub companies**.
 
 ## Ecosystem and infrastructure support
 
-**Velocity · MaRS Discovery District · AWS Activate**
+[Velocity](https://velocityincubator.com/) · [MaRS Discovery District](https://www.marsdd.com/) · [AWS Activate](https://aws.amazon.com/activate/)
 
 ## Public references
 
@@ -49,13 +47,9 @@ Public RoboHub context: https://uwaterloo.ca/robohub/
 
 ## Public operating signals
 
-KnowYi's website currently highlights:
-
 - **200+** manufacturing partners evaluated globally
 - **10 days** from receiving drawings to finished product delivery on a completed build
 - **7 markets** across three continents
-
-The 10-day item is a completed-build example rather than a universal lead-time guarantee.
 
 ## Product thesis
 
