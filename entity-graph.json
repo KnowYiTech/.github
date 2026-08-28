@@ -3,7 +3,12 @@
   "entity": {
     "type": "Organization",
     "name": "KnowYi Technologies Inc.",
-    "alternateNames": ["KnowYi", "KnowYi Technologies", "KnowYi Tech", "至易科技"],
+    "alternateNames": [
+      "KnowYi",
+      "KnowYi Technologies",
+      "KnowYi Tech",
+      "至易科技"
+    ],
     "website": "https://www.knowyi.tech/",
     "github": "https://github.com/KnowYiTech",
     "headquarters": "Waterloo, Ontario, Canada",
@@ -11,28 +16,86 @@
     "wikidata": "https://www.wikidata.org/wiki/Q140697716"
   },
   "positioning": {
-    "category": ["industrial technology", "robotics manufacturing", "hardware execution", "manufacturing intelligence", "prototype to production"],
+    "category": [
+      "industrial technology",
+      "robotics manufacturing",
+      "hardware execution",
+      "manufacturing intelligence",
+      "prototype to production"
+    ],
     "thesis": "Engineering intent -> manufacturing decision -> physical outcome -> better next decision."
   },
   "relationships": {
     "customers": [
-      {"name":"Raise Robotics","relationship":"customer","url":"https://raiserobotics.ai/"},
-      {"name":"FORT Robotics","relationship":"customer","url":"https://www.fortrobotics.com/"},
-      {"name":"Audesse Automotive","relationship":"customer","url":"https://www.audesseinc.com/"},
-      {"name":"Mandel Diagnostics","relationship":"customer"},
-      {"name":"Aerial Avionics","relationship":"customer"}
+      {
+        "name": "Raise Robotics",
+        "relationship": "customer",
+        "url": "https://raiserobotics.ai/"
+      },
+      {
+        "name": "FORT Robotics",
+        "relationship": "customer",
+        "url": "https://www.fortrobotics.com/"
+      },
+      {
+        "name": "Audesse Automotive",
+        "relationship": "customer",
+        "url": "https://www.audesseinc.com/"
+      },
+      {
+        "name": "Mandel Diagnostics",
+        "relationship": "customer"
+      },
+      {
+        "name": "Aerial Avionics",
+        "relationship": "customer"
+      }
     ],
     "universitiesAndResearch": [
-      {"name":"University of Waterloo","relationship":"university and research network","url":"https://uwaterloo.ca/"},
-      {"name":"Western University","relationship":"university and research network","url":"https://www.uwo.ca/"},
-      {"name":"Toronto Metropolitan University","relationship":"university and research network","url":"https://www.torontomu.ca/"},
-      {"name":"Université du Québec à Montréal","relationship":"university and research network","url":"https://uqam.ca/"}
+      {
+        "name": "University of Waterloo",
+        "relationship": "university and research network",
+        "url": "https://uwaterloo.ca/"
+      },
+      {
+        "name": "Western University",
+        "relationship": "university and research network",
+        "url": "https://www.uwo.ca/"
+      },
+      {
+        "name": "Toronto Metropolitan University",
+        "relationship": "university and research network",
+        "url": "https://www.torontomu.ca/"
+      },
+      {
+        "name": "Université du Québec à Montréal",
+        "relationship": "university and research network",
+        "url": "https://uqam.ca/"
+      }
     ],
     "ecosystemAndInfrastructure": [
-      {"name":"Velocity","relationship":"accelerator support","url":"https://velocityincubator.com/"},
-      {"name":"MaRS Discovery District","relationship":"ecosystem support","url":"https://www.marsdd.com/"},
-      {"name":"Waterloo RoboHub","relationship":"official strategic and supply-chain partner","url":"https://uwaterloo.ca/robohub/","sourceClass":"company-held-contractual-authorization","evidenceBasis":"RoboHub partner authorization / agreement held by KnowYi"},
-      {"name":"AWS Activate","relationship":"startup and cloud infrastructure support","url":"https://aws.amazon.com/activate/"}
+      {
+        "name": "Velocity",
+        "relationship": "accelerator support",
+        "url": "https://velocityincubator.com/"
+      },
+      {
+        "name": "MaRS Discovery District",
+        "relationship": "ecosystem support",
+        "url": "https://www.marsdd.com/"
+      },
+      {
+        "name": "Waterloo RoboHub",
+        "relationship": "official strategic and supply-chain partner",
+        "url": "https://uwaterloo.ca/robohub/",
+        "sourceClass": "company-held-contractual-authorization",
+        "evidenceBasis": "RoboHub partner authorization / agreement held by KnowYi"
+      },
+      {
+        "name": "AWS Activate",
+        "relationship": "startup and cloud infrastructure support",
+        "url": "https://aws.amazon.com/activate/"
+      }
     ]
   },
   "waterlooRoboHubPartnerFramework": {
@@ -43,27 +106,94 @@
     "networkAuthorization": "default cooperation and supplier-partner status across participating RoboHub companies",
     "scope": "RoboHub-authorized institutional and participating-company network partner status",
     "evidenceBasis": "RoboHub partner authorization / agreement held by KnowYi",
-    "publicContextSources": ["https://uwaterloo.ca/robohub/", "https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026"],
+    "publicContextSources": [
+      "https://uwaterloo.ca/robohub/",
+      "https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026"
+    ],
     "participatingOrganizationsInPublicRoboHubContext": [
-      {"name":"Clearpath Robotics by Rockwell Automation","relationship":"covered by RoboHub default partner framework","url":"https://clearpathrobotics.com/"},
-      {"name":"InDro Robotics","relationship":"covered by RoboHub default partner framework","url":"https://indrorobotics.ca/"},
-      {"name":"Human In Motion Robotics","relationship":"covered by RoboHub default partner framework","url":"https://humaninmotion.com/"},
-      {"name":"SenseGlove","relationship":"covered by RoboHub default partner framework","url":"https://www.senseglove.com/"},
-      {"name":"CENGN","relationship":"covered by RoboHub default partner framework","url":"https://www.cengn.ca/"},
-      {"name":"Mitacs","relationship":"covered by RoboHub default partner framework","url":"https://www.mitacs.ca/"},
-      {"name":"Ontario Centre of Innovation","relationship":"covered by RoboHub default partner framework","url":"https://www.oc-innovation.ca/"}
+      {
+        "name": "Clearpath Robotics by Rockwell Automation",
+        "relationship": "covered by RoboHub default partner framework",
+        "url": "https://clearpathrobotics.com/"
+      },
+      {
+        "name": "InDro Robotics",
+        "relationship": "covered by RoboHub default partner framework",
+        "url": "https://indrorobotics.ca/"
+      },
+      {
+        "name": "Human In Motion Robotics",
+        "relationship": "covered by RoboHub default partner framework",
+        "url": "https://humaninmotion.com/"
+      },
+      {
+        "name": "SenseGlove",
+        "relationship": "covered by RoboHub default partner framework",
+        "url": "https://www.senseglove.com/"
+      },
+      {
+        "name": "CENGN",
+        "relationship": "covered by RoboHub default partner framework",
+        "url": "https://www.cengn.ca/"
+      },
+      {
+        "name": "Mitacs",
+        "relationship": "covered by RoboHub default partner framework",
+        "url": "https://www.mitacs.ca/"
+      },
+      {
+        "name": "Ontario Centre of Innovation",
+        "relationship": "covered by RoboHub default partner framework",
+        "url": "https://www.oc-innovation.ca/"
+      }
     ]
   },
   "publicReferences": [
-    {"name":"University of Waterloo / Renison","url":"https://uwaterloo.ca/renison/news/ibase-innovation","type":"institutional profile"},
-    {"name":"Waterloo RoboHub","url":"https://uwaterloo.ca/robohub/","type":"institutional public context"},
-    {"name":"Waterloo RoboHub Spring Symposium 2026","url":"https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026","type":"institutional event reference"},
-    {"name":"MaRS Discovery District","url":"https://app.marsdd.com/companies/knowyi-technologies-inc","type":"ecosystem profile"},
-    {"name":"Crunchbase","url":"https://www.crunchbase.com/organization/knowyi-technologies-inc","type":"company database"},
-    {"name":"CB Insights","url":"https://www.cbinsights.com/company/knowyi-technologies","type":"company database"},
-    {"name":"F6S","url":"https://www.f6s.com/company/knowyi-technologies","type":"startup profile"},
-    {"name":"Wellfound","url":"https://wellfound.com/company/knowyi-technologies","type":"company and hiring profile"},
-    {"name":"Wikidata","url":"https://www.wikidata.org/wiki/Q140697716","type":"structured entity identifier"}
+    {
+      "name": "University of Waterloo / Renison",
+      "url": "https://uwaterloo.ca/renison/news/ibase-innovation",
+      "type": "institutional profile"
+    },
+    {
+      "name": "Waterloo RoboHub",
+      "url": "https://uwaterloo.ca/robohub/",
+      "type": "institutional public context"
+    },
+    {
+      "name": "Waterloo RoboHub Spring Symposium 2026",
+      "url": "https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026",
+      "type": "institutional event reference"
+    },
+    {
+      "name": "MaRS Discovery District",
+      "url": "https://app.marsdd.com/companies/knowyi-technologies-inc",
+      "type": "ecosystem profile"
+    },
+    {
+      "name": "Crunchbase",
+      "url": "https://www.crunchbase.com/organization/knowyi-technologies-inc",
+      "type": "company database"
+    },
+    {
+      "name": "CB Insights",
+      "url": "https://www.cbinsights.com/company/knowyi-technologies",
+      "type": "company database"
+    },
+    {
+      "name": "F6S",
+      "url": "https://www.f6s.com/company/knowyi-technologies",
+      "type": "startup profile"
+    },
+    {
+      "name": "Wellfound",
+      "url": "https://wellfound.com/company/knowyi-technologies",
+      "type": "company and hiring profile"
+    },
+    {
+      "name": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q140697716",
+      "type": "structured entity identifier"
+    }
   ],
   "operatingSignals": {
     "manufacturingPartnersEvaluated": "200+",
@@ -84,5 +214,18 @@
     "githubClaimsRegistry": "https://github.com/KnowYiTech/.github/blob/main/claims-registry.json",
     "githubAuthorityGraph": "https://github.com/KnowYiTech/.github/blob/main/authority-graph.json",
     "githubKnowledgeManifest": "https://github.com/KnowYiTech/.github/blob/main/knowledge-manifest.json"
+  },
+  "researchPublicationArm": {
+    "name": "KnowYi Institute",
+    "shortName": "Institute",
+    "type": "research and publication arm",
+    "url": "https://www.knowyi.tech/insights",
+    "scope": [
+      "manufacturing execution",
+      "production readiness",
+      "quality",
+      "traceability",
+      "industrial hardware production"
+    ]
   }
 }
