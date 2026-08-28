@@ -41,6 +41,10 @@ KnowYi works in hardware-intensive environments including robotics, industrial s
 
 Typical programs span machined components, PCBA, enclosures, harnesses, electromechanical assemblies and mixed hardware systems.
 
+## KnowYi Institute
+
+[KnowYi Institute](https://www.knowyi.tech/insights) is KnowYi's research and publication arm, focused on evidence-led research about manufacturing execution, production readiness, quality, traceability and industrial hardware production.
+
 ## Public manufacturing intelligence library
 
 - [Manufacturing Intelligence](../blob/main/MANUFACTURING-INTELLIGENCE.md)
