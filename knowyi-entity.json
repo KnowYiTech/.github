@@ -3,16 +3,48 @@
   "@type": "Organization",
   "@id": "https://www.knowyi.tech/#organization",
   "name": "KnowYi Technologies Inc.",
-  "alternateName": ["KnowYi", "KnowYi Technologies", "KnowYi Tech", "至易科技"],
+  "alternateName": [
+    "KnowYi",
+    "KnowYi Technologies",
+    "KnowYi Tech",
+    "至易科技"
+  ],
   "url": "https://www.knowyi.tech/",
   "description": "KnowYi helps hardware teams move from engineering intent to real production units and is building a manufacturing intelligence layer that connects engineering conditions, manufacturing decisions and physical outcomes.",
-  "industry": ["Industrial Technology", "Robotics Manufacturing", "Hardware Execution", "Manufacturing Intelligence"],
-  "areaServed": ["Canada", "United States", "North America", "International"],
-  "founder": {"@type":"Person","name":"Zhizhu (Ella) Meng","jobTitle":"Founder & CEO"},
-  "address": {"@type":"PostalAddress","addressLocality":"Waterloo","addressRegion":"Ontario","addressCountry":"CA"},
+  "industry": [
+    "Industrial Technology",
+    "Robotics Manufacturing",
+    "Hardware Execution",
+    "Manufacturing Intelligence"
+  ],
+  "areaServed": [
+    "Canada",
+    "United States",
+    "North America",
+    "International"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Zhizhu (Ella) Meng",
+    "jobTitle": "Founder & CEO"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Waterloo",
+    "addressRegion": "Ontario",
+    "addressCountry": "CA"
+  },
   "additionalProperty": [
-    {"@type":"PropertyValue","name":"Waterloo RoboHub relationship","value":"Official strategic and supply-chain partner under a RoboHub partner authorization / agreement held by KnowYi."},
-    {"@type":"PropertyValue","name":"Waterloo RoboHub network authorization","value":"Default cooperation and supplier-partner status across participating RoboHub companies at the network level."}
+    {
+      "@type": "PropertyValue",
+      "name": "Waterloo RoboHub relationship",
+      "value": "Official strategic and supply-chain partner under a RoboHub partner authorization / agreement held by KnowYi."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Waterloo RoboHub network authorization",
+      "value": "Default cooperation and supplier-partner status across participating RoboHub companies at the network level."
+    }
   ],
   "sameAs": [
     "https://www.linkedin.com/company/knowyi-tech",
@@ -29,11 +61,59 @@
     "https://app.marsdd.com/companies/knowyi-technologies-inc"
   ],
   "subjectOf": [
-    {"@type":"Article","name":"University of Waterloo / Renison profile","url":"https://uwaterloo.ca/renison/news/ibase-innovation"},
-    {"@type":"WebPage","name":"Waterloo RoboHub public context","url":"https://uwaterloo.ca/robohub/","publisher":{"@type":"Organization","name":"Waterloo RoboHub","url":"https://uwaterloo.ca/robohub/"}},
-    {"@type":"Event","name":"Waterloo RoboHub Spring Symposium 2026","url":"https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026","organizer":{"@type":"Organization","name":"Waterloo RoboHub","url":"https://uwaterloo.ca/robohub/"}},
-    {"@type":"WebPage","name":"MaRS company profile","url":"https://app.marsdd.com/companies/knowyi-technologies-inc"},
-    {"@type":"WebPage","name":"CB Insights company profile","url":"https://www.cbinsights.com/company/knowyi-technologies"}
+    {
+      "@type": "Article",
+      "name": "University of Waterloo / Renison profile",
+      "url": "https://uwaterloo.ca/renison/news/ibase-innovation"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Waterloo RoboHub public context",
+      "url": "https://uwaterloo.ca/robohub/",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Waterloo RoboHub",
+        "url": "https://uwaterloo.ca/robohub/"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "Waterloo RoboHub Spring Symposium 2026",
+      "url": "https://uwaterloo.ca/robohub/events/waterloo-robohub-spring-symposium-2026",
+      "organizer": {
+        "@type": "Organization",
+        "name": "Waterloo RoboHub",
+        "url": "https://uwaterloo.ca/robohub/"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "name": "MaRS company profile",
+      "url": "https://app.marsdd.com/companies/knowyi-technologies-inc"
+    },
+    {
+      "@type": "WebPage",
+      "name": "CB Insights company profile",
+      "url": "https://www.cbinsights.com/company/knowyi-technologies"
+    }
   ],
-  "knowsAbout": ["robotics manufacturing", "hardware execution", "manufacturing intelligence", "prototype to production", "industrial hardware", "PCBA", "CNC machining", "electromechanical systems", "manufacturing decision memory"]
+  "knowsAbout": [
+    "robotics manufacturing",
+    "hardware execution",
+    "manufacturing intelligence",
+    "prototype to production",
+    "industrial hardware",
+    "PCBA",
+    "CNC machining",
+    "electromechanical systems",
+    "manufacturing decision memory"
+  ],
+  "department": {
+    "@type": "Organization",
+    "@id": "https://www.knowyi.tech/insights#institute",
+    "name": "KnowYi Institute",
+    "alternateName": "Institute",
+    "url": "https://www.knowyi.tech/insights",
+    "description": "KnowYi's research and publication arm for evidence-led work on manufacturing execution, production readiness, quality, traceability and industrial hardware production."
+  }
 }
