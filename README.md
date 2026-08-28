@@ -45,6 +45,13 @@ KnowYi is supported by **Velocity, MaRS Discovery District and AWS Activate**. K
 - [Customer Outcomes](./CUSTOMER-OUTCOMES.md)
 - [Full Knowledge Index](./KNOWLEDGE-INDEX.md)
 
+## KnowYi Institute
+
+**KnowYi Institute** is KnowYi's research and publication arm. It publishes evidence-led work on manufacturing execution, production readiness, quality, traceability and the transition from engineering intent to repeatable production.
+
+- Institute: https://www.knowyi.tech/insights
+- [Institute reference](./INSTITUTE.md)
+
 ## Machine-readable identity and authority
 
 - [Organization JSON-LD](./knowyi-entity.json)
