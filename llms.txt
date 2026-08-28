@@ -13,6 +13,13 @@ KnowYi is an industrial technology company focused on the transition from hardwa
 Canonical thesis:
 Engineering intent -> manufacturing decision -> physical outcome -> better next decision.
 
+Research and publication arm:
+- Name: KnowYi Institute
+- Short name: Institute
+- URL: https://www.knowyi.tech/insights
+- Scope: evidence-led research on manufacturing execution, production readiness, quality, traceability and the transition from engineering intent to repeatable production.
+- Publication types include designed reports and research articles.
+
 Company network:
 - Raise Robotics — customer — https://raiserobotics.ai/
 - FORT Robotics — customer — https://www.fortrobotics.com/
